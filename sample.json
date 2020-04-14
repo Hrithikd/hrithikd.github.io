@@ -851,6 +851,106 @@
 {"text":"Do I have an appointment today?","intents":"Time"}
 {"text":"What reminders do I have today?","intents":"Time"}
 {"text":"Oh I need to get that done by tomorrow","intents":"Time"}
-
+{"text":"Remind me to do this at 1 P.M.","intents":"Time"}
+{"text":"Remind me to do this at 2 P.M.","intents":"Time"}
+{"text":"Remind me to do this at 3 P.M.","intents":"Time"}
+{"text":"Remind me to do this at 4 P.M.","intents":"Time"}
+{"text":"Remind me to do this at 5 P.M.","intents":"Time"}
+{"text":"Remind me to do this at 6 P.M.","intents":"Time"}
+{"text":"Remind me to do this at 7 P.M.","intents":"Time"}
+{"text":"Remind me to do this at 8 P.M.","intents":"Time"}
+{"text":"Remind me to do this at 9 P.M.","intents":"Time"}
+{"text":"Remind me to do this at 10 P.M.","intents":"Time"}
+{"text":"Remind me to do this at 11 P.M.","intents":"Time"}
+{"text":"Remind me to do this at 12 P.M.","intents":"Time"}
+{"text":"Remind me to do this at 1 A.M.","intents":"Time"}
+{"text":"Remind me to do this at 2 A.M.","intents":"Time"}
+{"text":"Remind me to do this at 3 A.M.","intents":"Time"}
+{"text":"Remind me to do this at 4 A.M.","intents":"Time"}
+{"text":"Remind me to do this at 5 A.M.","intents":"Time"}
+{"text":"Remind me to do this at 6 A.M.","intents":"Time"}
+{"text":"Remind me to do this at 7 A.M.","intents":"Time"}
+{"text":"Remind me to do this at 8 A.M.","intents":"Time"}
+{"text":"Remind me to do this at 9 A.M.","intents":"Time"}
+{"text":"Remind me to do this at 10 A.M.","intents":"Time"}
+{"text":"Remind me to do this at 11 A.M.","intents":"Time"}
+{"text":"Remind me to do this at 12 A.M.","intents":"Time"}
+{"text":"Remind me to do this at 1 o'clock","intents":"Time"}
+{"text":"Remind me to do this at 2 o'clock","intents":"Time"}
+{"text":"Remind me to do this at 3 o'clock","intents":"Time"}
+{"text":"Remind me to do this at 4 o'clock","intents":"Time"}
+{"text":"Remind me to do this at 5 o'clock","intents":"Time"}
+{"text":"Remind me to do this at 6 o'clock","intents":"Time"}
+{"text":"Remind me to do this at 7 o'clock","intents":"Time"}
+{"text":"Remind me to do this at 8 o'clock","intents":"Time"}
+{"text":"Remind me to do this at 9 o'clock","intents":"Time"}
+{"text":"Remind me to do this at 10 o'clock","intents":"Time"}
+{"text":"Remind me to do this at 11 o'clock","intents":"Time"}
+{"text":"Remind me to do this at 12 o'clock.","intents":"Time"}
+{"text":"Remind me to do this at 1 o'clock","intents":"Time"}
+{"text":"Remind me to do this at 2 o'clock","intents":"Time"}
+{"text":"Remind me to do this at 3 o'clock","intents":"Time"}
+{"text":"Remind me to do this at 4 o'clock","intents":"Time"}
+{"text":"Remind me to do this at 5 o'clock","intents":"Time"}
+{"text":"Remind me to do this at 6 o'clock","intents":"Time"}
+{"text":"Remind me to do this at 7 o'clock","intents":"Time"}
+{"text":"Remind me to do this at 8 o'clock","intents":"Time"}
+{"text":"Remind me to do this at 9 o'clock","intents":"Time"}
+{"text":"Remind me to do this at 10 o'clock","intents":"Time"}
+{"text":"Remind me to do this at 11 o'clock","intents":"Time"}
+{"text":"Remind me to do this at 12 o'clock","intents":"Time"}
+{"text":"I have an appointment at 1 P.M.","intents":"Time"}
+{"text":"I have an appointment at 2 P.M.","intents":"Time"}
+{"text":"I have an appointment at 3 P.M.","intents":"Time"}
+{"text":"I have an appointment at 4 P.M.","intents":"Time"}
+{"text":"I have an appointment at 5 P.M.","intents":"Time"}
+{"text":"I have an appointment at 6 P.M.","intents":"Time"}
+{"text":"I have an appointment at 7 P.M.","intents":"Time"}
+{"text":"I have an appointment at 8 P.M.","intents":"Time"}
+{"text":"I have an appointment at 9 P.M.","intents":"Time"}
+{"text":"I have an appointment at 10 P.M.","intents":"Time"}
+{"text":"I have an appointment at 11 P.M.","intents":"Time"}
+{"text":"I have an appointment at 12 P.M.","intents":"Time"}
+{"text":"I have an appointment at 1 A.M.","intents":"Time"}
+{"text":"I have an appointment at 2 A.M.","intents":"Time"}
+{"text":"I have an appointment at 3 A.M.","intents":"Time"}
+{"text":"I have an appointment at 4 A.M.","intents":"Time"}
+{"text":"I have an appointment at 5 A.M.","intents":"Time"}
+{"text":"I have an appointment at 6 A.M.","intents":"Time"}
+{"text":"I have an appointment at 7 A.M.","intents":"Time"}
+{"text":"I have an appointment at 8 A.M.","intents":"Time"}
+{"text":"I have an appointment at 9 A.M.","intents":"Time"}
+{"text":"I have an appointment at 10 A.M.","intents":"Time"}
+{"text":"I have an appointment at 11 A.M.","intents":"Time"}
+{"text":"I have an appointment at 12 A.M.","intents":"Time"}
+{"text":"I forgot the time, that I had to do this at 1 P.M.","intents":"Time"}
+{"text":"I forgot the time, that I had to do this at 2 P.M.","intents":"Time"}
+{"text":"I forgot the time, that I had to do this at 3 P.M.","intents":"Time"}
+{"text":"I forgot the time, that I had to do this at 4 P.M.","intents":"Time"}
+{"text":"I forgot the time, that I had to do this at 5 P.M.","intents":"Time"}
+{"text":"I forgot the time, that I had to do this at 6 P.M.","intents":"Time"}
+{"text":"I forgot the time, that I had to do this at 7 P.M.","intents":"Time"}
+{"text":"I forgot the time, that I had to do this at 8 P.M.","intents":"Time"}
+{"text":"I forgot the time, that I had to do this at 9 P.M.","intents":"Time"}
+{"text":"I forgot the time, that I had to do this at 10 P.M.","intents":"Time"}
+{"text":"I forgot the time, that I had to do this at 11 P.M.","intents":"Time"}
+{"text":"I forgot the time, that I had to do this at 12 P.M.","intents":"Time"}
+{"text":"I forgot the time, that I had to do this at 1 A.M.","intents":"Time"}
+{"text":"I forgot the time, that I had to do this at 2 A.M.","intents":"Time"}
+{"text":"I forgot the time, that I had to do this at 3 A.M.","intents":"Time"}
+{"text":"I forgot the time, that I had to do this at 4 A.M.","intents":"Time"}
+{"text":"I forgot the time, that I had to do this at 5 A.M.","intents":"Time"}
+{"text":"I forgot the time, that I had to do this at 6 A.M.","intents":"Time"}
+{"text":"I forgot the time, that I had to do this at 7 A.M.","intents":"Time"}
+{"text":"I forgot the time, that I had to do this at 8 A.M.","intents":"Time"}
+{"text":"I forgot the time, that I had to do this at 9 A.M.","intents":"Time"}
+{"text":"I forgot the time, that I had to do this at 10 A.M.","intents":"Time"}
+{"text":"I forgot the time, that I had to do this at 11 A.M.","intents":"Time"}
+{"text":"I forgot the time, that I had to do this at 12 A.M.","intents":"Time"}
+{"text":"What's the time of my appointment today?","intents":"Time"}
+{"text":"What's the time of my appointment tomorrow?","intents":"Time"}
+{"text":"Do I have an appointment today?","intents":"Time"}
+{"text":"What reminders do I have today?","intents":"Time"}
+{"text":"Oh I need to get that done by tomorrow","intents":"Time"}
 
 
