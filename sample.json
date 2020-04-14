@@ -36,4 +36,981 @@
 {"text":"what's the movie schedules for in the neighborhood at the movies","intents":"Time"}
 {"text":"Show me movie times for animated movies playing three hours from now in the neighbourhood.","intents":"Time"}
 {"text":"What are the movie times for films playing in the area?","intents":"Time"}
-{"text":"I need the weather close-by in MS","intents":"GetWeather"}
+{"text":"Where is Walt: The Man Behind the Myth playing","intents":"Time"}
+{"text":"What time is Beat the Devil coming on at Mann Theatres","intents":"Time"}
+{"text":"find movie times nearby for animated movies","intents":"Time"}
+{"text":"find movie times","intents":"Time"}
+{"text":"Can i get the showtimes for films close by?","intents":"Time"}
+{"text":"Is The Little Irish Girl playing","intents":"Time"}
+{"text":"Can I see the movie times for the Great Escape Theatres","intents":"Time"}
+{"text":"Need the closest movie house playing The Flamingo Rising","intents":"Time"}
+{"text":"What cinema is playing The Strongest Instinct now?","intents":"Time"}
+{"text":"What time is Between Tears and Smiles playing","intents":"Time"}
+{"text":"Show me the closest movie house that plays That Night in Rio ","intents":"Time"}
+{"text":"Find the schedule for films at the Douglas Theatre Company.","intents":"Time"}
+{"text":"Where can I see The Somme starting at 16:01:04?","intents":"Time"}
+{"text":"What time is Bloody Twilight playing?","intents":"Time"}
+{"text":"What time is Last Exit to Brooklyn playing at movie house?","intents":"Time"}
+{"text":"I'd like to see showings for All the Way Home at Kerasotes Theatres.","intents":"Time"}
+{"text":"what films are at the closest movie theatre ","intents":"Time"}
+{"text":"What movies are scheduled in the neighbourhood?","intents":"Time"}
+{"text":"give me the showtimes for Down Where The Buffalo Go at Amco Entertainment","intents":"Time"}
+{"text":"What are the movie schedules for any animated movies playing in the neighbourhood?","intents":"Time"}
+{"text":"Find movie schedules for ArcLight Hollywood.","intents":"Time"}
+{"text":"What time is Phera playing","intents":"Time"}
+{"text":"When does Of Stars and Men play?","intents":"Time"}
+{"text":"Which movies are playing at AMC Theaters 1 second from now?","intents":"Time"}
+{"text":"Find Fish Story ","intents":"Time"}
+{"text":"Will you show me a schedule for movies around here?","intents":"Time"}
+{"text":"What films are playing at 11 A.M. at Dickinson Theatres","intents":"Time"}
+{"text":"Find the movie schedule.","intents":"Time"}
+{"text":"What is the movie schedule for films in the neighbourhood","intents":"Time"}
+{"text":"find movie schedules with animated movies close by","intents":"Time"}
+{"text":"Where can I see No Time to Die?","intents":"Time"}
+{"text":"where can i watch Key to the City","intents":"Time"}
+{"text":"What movies are playing at the closest movie house?","intents":"Time"}
+{"text":"Find the schedule for movie times for movies around here.","intents":"Time"}
+{"text":"find animated movies around here","intents":"Time"}
+{"text":"Show films at the nearest cinema","intents":"Time"}
+{"text":"show the movie schedules","intents":"Time"}
+{"text":"What are the animated movies in the neighbourhood  for the recent movie times","intents":"Time"}
+{"text":"What is the movie schedule at the IMAX Corporation three minutes from now","intents":"Time"}
+{"text":"When is For Lovers Only playing?","intents":"Time"}
+{"text":"Is Love and Other Troubles playing","intents":"Time"}
+{"text":"When is The Blue of Heaven playing?","intents":"Time"}
+{"text":"find a movie theatre with Rogues and Romance that is nearest","intents":"Time"}
+{"text":"Can you tell me the movie schedule for General Cinema Corporation?","intents":"Time"}
+{"text":"What time is Do Sher playing","intents":"Time"}
+{"text":"I need to know what theatre is playing A Happy Coersion","intents":"Time"}
+{"text":"Find the schedule for films around here.","intents":"Time"}
+{"text":"I need the movie Kids in Love at the movie house","intents":"Time"}
+{"text":"what movies are at the nearest movie house","intents":"Time"}
+{"text":"What time is Wild and Wooly playing","intents":"Time"}
+{"text":"Find movie schedules.","intents":"Time"}
+{"text":"What time is My Son Shall Be Armenian playing at Plitt Theatres","intents":"Time"}
+{"text":"show the movie schedules at United Paramount Theatres","intents":"Time"}
+{"text":"find close by movie schedule movies","intents":"Time"}
+{"text":"Find me showtimes for How I Unleashed World War II.","intents":"Time"}
+{"text":"What films are showing at Cineplex Odeon Corporation?","intents":"Time"}
+{"text":"what are the movie schedules?","intents":"Time"}
+{"text":"Where is the closest cinema playing Osmanthus Alley","intents":"Time"}
+{"text":"What are the movie times for the movies in the neighbourhood","intents":"Time"}
+{"text":"Does The Yacoubian Building start at 08:39 pm","intents":"Time"}
+{"text":"When's Fools for Luck showing?","intents":"Time"}
+{"text":"What time is Just Around the Corner playing","intents":"Time"}
+{"text":"what animated movies are at the nearest movie house","intents":"Time"}
+{"text":"Please tell me what the movie schedule looks like for the AMC Theatres in twenty one hours","intents":"Time"}
+{"text":"What is the local movie schedule","intents":"Time"}
+{"text":"Is the Wandering Detective: Black Wind in the Harbor playing at Cinemark Theatres","intents":"Time"}
+{"text":"Please tell me the movie schedules","intents":"Time"}
+{"text":"I want to go see The Trouble with Girls","intents":"Time"}
+{"text":"Where is Boo to You Too! Winnie the Pooh playing","intents":"Time"}
+{"text":"Is The Suicide Shop playing at Southern Theatres","intents":"Time"}
+{"text":"What movies are showing at the nearest movie house?","intents":"Time"}
+{"text":"What animated movies are showing in the area?","intents":"Time"}
+{"text":"What are the movie schedules for Santikos Theatres?","intents":"Time"}
+{"text":"what films are at Cinemark Theatres","intents":"Time"}
+{"text":"What are the movie schedules","intents":"Time"}
+{"text":"Find a movie schedule.","intents":"Time"}
+{"text":"I want to see the local movie times","intents":"Time"}
+{"text":"when does Miss Sloane play at IMAX Corporation\n","intents":"Time"}
+{"text":"find a movie theatre showing The Tailor of Panama","intents":"Time"}
+{"text":"I'd like a movie schedule for a close by movies","intents":"Time"}
+{"text":"what animated movies are playing at Fox Theatres","intents":"Time"}
+{"text":"find a movie house closest showing Operation: Kingdom","intents":"Time"}
+{"text":"What films are playing at 1 PM at Showcase Cinemas","intents":"Time"}
+{"text":"Where can I watch Portrait of a Woman, Nude in 1 hour?","intents":"Time"}
+{"text":"I want the film for nearest movie theatre","intents":"Time"}
+{"text":"I'd like to watch Health Warning at the closest movie house","intents":"Time"}
+{"text":"Is The Butcher Boy playing anywhere at supper time?","intents":"Time"}
+{"text":"Which animated movies are playing at Fox Theatres?","intents":"Time"}
+{"text":"I'd like to watch Heartbreak at Pacific Theatres at two pm","intents":"Time"}
+{"text":"Find the movie schedule.","intents":"Time"}
+{"text":"in the neighbourhood find movies","intents":"Time"}
+{"text":"what time is The Bodyguard at Malco Theatres playing","intents":"Time"}
+{"text":"find Mary Kom starting in one hour ","intents":"Time"}
+{"text":"Find the movie schedule.","intents":"Time"}
+{"text":"Find the closest movie house that plays animated movies","intents":"Time"}
+{"text":"Is Storm Warning playing","intents":"Time"}
+{"text":"What are the movie times at Landmark Theatres","intents":"Time"}
+{"text":"is These Girls at the cinema","intents":"Time"}
+{"text":"What time is Unholy Women playing?","intents":"Time"}
+{"text":"Find the movie schedule at twelve AM.","intents":"Time"}
+{"text":"Is Hercules and Xena: The Battle for Mount Olympus playing at the closest cinema","intents":"Time"}
+{"text":"find Brandy in the Wilderness","intents":"Time"}
+{"text":"what is the movie schedule for Cineplex Odeon Corporation","intents":"Time"}
+{"text":"List movies at IMAX Corporation","intents":"Time"}
+{"text":"Where can I see Travelling Light?","intents":"Time"}
+{"text":"When can I see The Crew of the Dora","intents":"Time"}
+{"text":"Find me the movie times for the Marcus Corporation","intents":"Time"}
+{"text":"What time is The Bride Wore Boots playing","intents":"Time"}
+{"text":"What time is Cabin Fever: Spring Fever playing","intents":"Time"}
+{"text":"can i get the showtimes for films in the neighbourhood","intents":"Time"}
+{"text":"Which movie theatre nearest me is showing animated movies starting now?","intents":"Time"}
+{"text":"can i have the movie schedule for right now","intents":"Time"}
+{"text":"What is the movie schedules at for Douglas Theatre Company at 0 p.m.?","intents":"Time"}
+{"text":"Can i get the showtimes for films in the area.","intents":"Time"}
+{"text":"Find me the movie times","intents":"Time"}
+{"text":"Is Brother at United Paramount Theatres","intents":"Time"}
+{"text":"List movie schedules","intents":"Time"}
+{"text":"Give me the movie listings at the closest cinema please.","intents":"Time"}
+{"text":"find the nearest movie house for The Mystery of Picasso","intents":"Time"}
+{"text":"I would like to see a schedule for movies at the nearest movie house.","intents":"Time"}
+{"text":"I want to see King of the River in the nearest movie theatre","intents":"Time"}
+{"text":"Are there movies at Malco Theatres","intents":"Time"}
+{"text":"find Warren Theatres films","intents":"Time"}
+{"text":"find me the nearest movie theatre that's showing The Spell of the Yukon","intents":"Time"}
+{"text":"Find the schedule for Chronicle of My Mother at the nearest cinema in 1 minute and 8 seconds.","intents":"Time"}
+{"text":"What time is The Ladies Diplomat playing?","intents":"Time"}
+{"text":"Is The Mystery of Betty Bonn playing at twelve A.M. at the nearest movie house?","intents":"Time"}
+{"text":"find The Panic in Needle Park","intents":"Time"}
+{"text":"Show me movie schedule","intents":"Time"}
+{"text":"Show me movie times for two a.m. at any nearby movies.","intents":"Time"}
+{"text":"What movies are playing at Warren Theatres?","intents":"Time"}
+{"text":"what animated movies are showing in the neighborhood ","intents":"Time"}
+{"text":"Find the movie schedules for Great Escape Theatres.","intents":"Time"}
+{"text":"When is the next showing of Star Wars: The Clone Wars?","intents":"Time"}
+{"text":"What is the movie times at Marcus Corporation","intents":"Time"}
+{"text":"Need to see Mother Joan of the Angels in one second.","intents":"Time"}
+{"text":"What animated movies are playing nearby right now?","intents":"Time"}
+{"text":"is The Clowns at the nearest cinema ","intents":"Time"}
+{"text":"What films are scheduled at the closest cinema?","intents":"Time"}
+{"text":"Is Tomorrow at Seven being played at Douglas Theatre Company?","intents":"Time"}
+{"text":"What are the movie schedules at the IMAX Corporation","intents":"Time"}
+{"text":"find a cinema for The Tenderfoot nearest me","intents":"Time"}
+{"text":"Show the movie schedule at Regal Entertainment Group","intents":"Time"}
+{"text":"Give me the movie schedules for National Amusements.","intents":"Time"}
+{"text":"What movies are at Malco Theatres","intents":"Time"}
+{"text":"Show a movie schedule with Bow Tie Cinemas","intents":"Time"}
+{"text":"What time is The Riders of the Whistling Skull playing at Magic Johnson Theatres","intents":"Time"}
+{"text":"Where can I find the movie schedule?","intents":"Time"}
+{"text":"Is Arthur 2 \u2013 On the Rocks playing at 20:44?","intents":"Time"}
+{"text":"What movies are playing at Dipson Theatres\n","intents":"Time"}
+{"text":"Find the movie schedule.","intents":"Time"}
+{"text":"Show movie schedule at Amco Entertainment","intents":"Time"}
+{"text":"Where is the closest cinema playing Good Night Good Morning","intents":"Time"}
+{"text":"When is Girls Just Want to Have Fun playing at the movie house?","intents":"Time"}
+{"text":"What animated movies are playing at Dipson Theatres?","intents":"Time"}
+{"text":"Find the schedule for The Cup Winner at the closest movie house.","intents":"Time"}
+{"text":"What are the movie schedule for the movies in the neighborhood","intents":"Time"}
+{"text":"What movie schedules at Consolidated Theatres","intents":"Time"}
+{"text":"What movies are scheduled at Plitt Theatres?","intents":"Time"}
+{"text":"What animated movies are at the closest movie theatre","intents":"Time"}
+{"text":"find a Loews Cineplex with films","intents":"Time"}
+{"text":"What time is Rites of Spring playing at Marcus Corporation","intents":"Time"}
+{"text":"List all the movies playing in the area now.","intents":"Time"}
+{"text":"Showtimes for the films at Santikos Theatres","intents":"Time"}
+{"text":"Find the schedule for Vanishing of the Bees at a movie house.","intents":"Time"}
+{"text":"show me the schedule of movie Warning from Space closest to movie house","intents":"Time"}
+{"text":"Show me the movie schedules for movies playing nearby.","intents":"Time"}
+{"text":"Please tell me the movie schedules ","intents":"Time"}
+{"text":"What movies are playing Dickinson Theatres","intents":"Time"}
+{"text":"give me the Morning movie schedules","intents":"Time"}
+{"text":"When is The Great Question playing at the closest movie house?","intents":"Time"}
+{"text":"where can I watch Mabel\u2019s Dramatic Career at twenty two o'clock","intents":"Time"}
+{"text":"What movies are playing at the nearest movie house","intents":"Time"}
+{"text":"in one hour find King of Hearts","intents":"Time"}
+{"text":"in the neighbourhood find a movie schedule for animated movies","intents":"Time"}
+{"text":"When is The Stain playing at Loews Cineplex?","intents":"Time"}
+{"text":"Is The Angel of Vengeance \u2013 The Female Hamlet playing at the cinema at 6 am","intents":"Time"}
+{"text":"What time do the movies play at Southern Theatres?","intents":"Time"}
+{"text":"Where does The Return of the Whistler play at the Bow Tie Cinemas at 03:01:48 A.M.","intents":"Time"}
+{"text":"Is Goodbye Mr. Chips showing twelve minutes from now","intents":"Time"}
+{"text":"I'd like to watch The Wedding Ring at the movie theatre","intents":"Time"}
+{"text":"What theater is showing From Paris with Love and when?","intents":"Time"}
+{"text":"list movie times with meal","intents":"Time"}
+{"text":"Is The Lady and the Highwayman playing at 7 A.M. at Dipson Theatres?","intents":"Time"}
+{"text":"When will Hard Time Romance be showing at the cinema?","intents":"Time"}
+{"text":"Is A Man Called Hero playing during brunch at the cinema","intents":"Time"}
+{"text":"Can I go see Cash and Curry at a movie theatre?","intents":"Time"}
+{"text":"What animated movies are at Dipson Theatres","intents":"Time"}
+{"text":"show me the schedule of movie times in Dipson Theatres","intents":"Time"}
+{"text":"I'm wondering if you can give me the movie times for films in the neighborhood.","intents":"Time"}
+{"text":"FInd the movie times for films in the neighbourhood.","intents":"Time"}
+{"text":"is Tomorrow at Dawn at Harkins Theatres","intents":"Time"}
+{"text":"Find the movie schedule for ArcLight Hollywood.","intents":"Time"}
+{"text":"Show me the movie schedule ","intents":"Time"}
+{"text":"where is The Incite Mill playing","intents":"Time"}
+{"text":"Find the movie schedule for films in the area.","intents":"Time"}
+{"text":"show me movie times","intents":"Time"}
+{"text":"What is the closest movie house playing House of the Dead 2","intents":"Time"}
+{"text":"Where is the nearest cinema that is playing Pioneers of the West","intents":"Time"}
+{"text":"What time is Socrates playing at the cinema?","intents":"Time"}
+{"text":"Show me the movie times for what's playing now","intents":"Time"}
+{"text":"are there any movies playing around here","intents":"Time"}
+{"text":"Where can I watch Hank Williams: The Show He Never Gave?","intents":"Time"}
+{"text":"Showtimes for Butterfly on a Wheel.","intents":"Time"}
+{"text":"What movies are playing at the closest cinema","intents":"Time"}
+{"text":"What time is 30 Days of Night playing?","intents":"Time"}
+{"text":"Fine movie times for animated movies in the neighborhood.","intents":"Time"}
+{"text":"Show me schedules to see A Film with Me in It.","intents":"Time"}
+{"text":"movie schedule for animated movies in the neighborhood","intents":"Time"}
+{"text":"Is A Charming Man playing at lunch time?","intents":"Time"}
+{"text":"Can you give me the movie schedules for films close by?","intents":"Time"}
+{"text":"What times is the 7 Faces of Dr. Lao showing at United Paramount Theatres","intents":"Time"}
+{"text":"is Las aventuras de Zachary Beaver at Harkins Theatres","intents":"Time"}
+{"text":"show me the schedule of Dead Snow","intents":"Time"}
+{"text":"Find the schedule for movies at Plitt Theatres.","intents":"Time"}
+{"text":"Give me showtimes for The Tenth Woman at the movie house.","intents":"Time"}
+{"text":"What is the movie schedule","intents":"Time"}
+{"text":"show me movie schedules","intents":"Time"}
+{"text":"Is Unsettled Land playing at the movie theatre","intents":"Time"}
+{"text":"Show me when Scandalous John is playing.","intents":"Time"}
+{"text":"Is The Matinee Idol 06:30 cinema sold out?","intents":"Time"}
+{"text":"where is The Yellow Star: The Persecution of the Jews in Europe 1933-45 playing","intents":"Time"}
+{"text":"show animated movies in nearest movie theatre","intents":"Time"}
+{"text":"what time can i see Girls to Marry\n\n","intents":"Time"}
+{"text":"I'd like to see the current showtimes for His Kind of Woman","intents":"Time"}
+{"text":"What is the nearest movie theatre playing Stray Cat Rock: Wild Jumbo in 7 seconds","intents":"Time"}
+{"text":"What animated movies are playing in the neighbourhood and when?","intents":"Time"}
+{"text":"Give me a list of films at AMC Theatres","intents":"Time"}
+{"text":"find Un weekend da bamboccioni","intents":"Time"}
+{"text":"Can I get the movie schedules for Marcus Corporation.","intents":"Time"}
+{"text":"What are the Mann Theatres showtimes for Secret Sunshine","intents":"Time"}
+{"text":"What are the timings for Starship Troopers 2?","intents":"Time"}
+{"text":"What movies are playing at Regal Entertainment Group","intents":"Time"}
+{"text":"what time is The Clutching Hand playing at Amco Entertainment","intents":"Time"}
+{"text":"Can i get the movie schedule  for films nearby.","intents":"Time"}
+{"text":"Where is All Night Long 3 playing 1 hour from now","intents":"Time"}
+{"text":"show movie times now","intents":"Time"}
+{"text":"Find time for movie times now","intents":"Time"}
+{"text":"What time will the closest movie house be playing Mark Shoots First","intents":"Time"}
+{"text":"list animated movies at the nearest cinema","intents":"Time"}
+{"text":"I'd like to watch All on the Red at 9 o'clock","intents":"Time"}
+{"text":"find the movie schedules","intents":"Time"}
+{"text":"Can I get the movie schedules for Southern Theatres at around 15:02","intents":"Time"}
+{"text":"Can I get the movie times for in the neighbourhood movies","intents":"Time"}
+{"text":"what films are playing at KB Theatres","intents":"Time"}
+{"text":"Find the closest cinema playing The St. Francisville Experiment.","intents":"Time"}
+{"text":"I want to see a list of local movie times.","intents":"Time"}
+{"text":"find animated movies close by with a movie schedule","intents":"Time"}
+{"text":"What films are playing at Great Escape Theatres","intents":"Time"}
+{"text":"SHOW movie schedule","intents":"Time"}
+{"text":"What is the closest cinema today playing animated movies?","intents":"Time"}
+{"text":"What are the movie times one second from now at the Alamo Drafthouse Cinema","intents":"Time"}
+{"text":"I need to see the movie schedules","intents":"Time"}
+{"text":"Find the schedule for nearby animated movies.","intents":"Time"}
+{"text":"what's Southern Theatres movie schedule","intents":"Time"}
+{"text":"What movies can I see in the area?","intents":"Time"}
+{"text":"Find the movie schedule at Malco Theatres.","intents":"Time"}
+{"text":"Is Holy Matrimony playing at National Amusements?","intents":"Time"}
+{"text":"Find the schedule for Brick.","intents":"Time"}
+{"text":"what films are showing in the neighborhood ","intents":"Time"}
+{"text":"Find movie schedules for movies in the area.","intents":"Time"}
+{"text":"find Belle of the Yukon","intents":"Time"}
+{"text":"Fine movie times.","intents":"Time"}
+{"text":"find Kerasotes Theatres movie schedules","intents":"Time"}
+{"text":"Where and at what time can I see Paragraphe 78","intents":"Time"}
+{"text":"Find time for Enkitta Mothathe at Pacific Theatres","intents":"Time"}
+{"text":"What time is Holiday Heart showing at the movie house","intents":"Time"}
+{"text":"What are the movie schedules","intents":"Time"}
+{"text":"Give me the schedule for animated movies at the nearest cinema","intents":"Time"}
+{"text":"Show me the movie times for Caribbean Cinemas in 1 second .","intents":"Time"}
+{"text":"where can i watch Wartime Romance in the morning","intents":"Time"}
+{"text":"I need the movie schedules for Century Theatres","intents":"Time"}
+{"text":"Can i get the showtimes for movies around here?","intents":"Time"}
+{"text":"Give me showtimes for films in the neighbourhood.","intents":"Time"}
+{"text":"where's the nearest movie house playing No Trains No Planes","intents":"Time"}
+{"text":"whats the movie schedules for General Cinema Corporation","intents":"Time"}
+{"text":"What are the movie times for animated movies playing close by","intents":"Time"}
+{"text":"Is Flow: For Love of Water playing at Southern Theatres at 2 am","intents":"Time"}
+{"text":"can I get the movie schedules for Goodrich Quality Theaters","intents":"Time"}
+{"text":"List films at the nearest movie house","intents":"Time"}
+{"text":"Show me the nearest movie house showing He Won a Ranch","intents":"Time"}
+{"text":"Please find the schedule for Jappeloup at Bow Tie Cinemas.","intents":"Time"}
+{"text":"What time is Cold Prey 3 playing at cinema","intents":"Time"}
+{"text":"I'm wondering when I can see Hurry Sundown.","intents":"Time"}
+{"text":"find The World Is Ours at a movie theatre","intents":"Time"}
+{"text":"What movie house is playing Something for the Birds","intents":"Time"}
+{"text":"show the animated movies playing at Consolidated Theatres","intents":"Time"}
+{"text":"what animated movies are showing at Star Theatres","intents":"Time"}
+{"text":"I'd like to see movie schedules for Kerasotes Theatres","intents":"Time"}
+{"text":"For the Star Theatres is The Belles of St. Clements playing in 8 minutes ","intents":"Time"}
+{"text":"What is the nearest movie house playing The Miracle Rider","intents":"Time"}
+{"text":"Find me the movie schedule for Great Escape Theatres","intents":"Time"}
+{"text":"what are the movie times for Consolidated Theatres","intents":"Time"}
+{"text":"find the movie schedule","intents":"Time"}
+{"text":"Find the schedule for for films at Star Theatres.","intents":"Time"}
+{"text":"What films are playing at Marcus Corporation?","intents":"Time"}
+{"text":"What is the 7 A.M. movie schedules at Amco Entertainment","intents":"Time"}
+{"text":"what movies are showing in the neighborhood ","intents":"Time"}
+{"text":"what films are at Kerasotes Theatres ","intents":"Time"}
+{"text":"Find the movie schedules at the Neighborhood Cinema Group","intents":"Time"}
+{"text":"When is Beneath the Harvest Sky playing?","intents":"Time"}
+{"text":"Show me the movie times for films nearby.","intents":"Time"}
+{"text":"Show me animated movies that are playig at Great Escape Theatres","intents":"Time"}
+{"text":"find Endless Horizons","intents":"Time"}
+{"text":"Where is the nearest cinema that is playing The Kid Brother","intents":"Time"}
+{"text":"When is Have Sword, Will Travel playing at the closest movie theatre?","intents":"Time"}
+{"text":"What time are movies showing around here","intents":"Time"}
+{"text":"Can you tell me the movies that are going to be scheduled at the closest movie house?","intents":"Time"}
+{"text":"what's the closest movie theatre showing Harbour Beat","intents":"Time"}
+{"text":"find films at Magic Johnson Theatres","intents":"Time"}
+{"text":"what films are showing at Cooper Foundation","intents":"Time"}
+{"text":"Find the schedule for movies at Southern Theatres.","intents":"Time"}
+{"text":"i want to watch Mister Cool","intents":"Time"}
+{"text":"Find the schedule for movies at Star Theatres.","intents":"Time"}
+{"text":"What films and movie schedule are in the area","intents":"Time"}
+{"text":"what animated movies are at Fox Theatres","intents":"Time"}
+{"text":"Find the schedule for films in the neighborhood.","intents":"Time"}
+{"text":"Whats the closest cinema that shows movies at 12 A.M.","intents":"Time"}
+{"text":"What films are going to be shown at the nearest movie house?","intents":"Time"}
+{"text":"Is Race Gurram playing","intents":"Time"}
+{"text":"Is Blood Is Not Fresh Water playing at this movie theatre at 2 AM?","intents":"Time"}
+{"text":"Find me The Twinkler playing at National Amusements in 2 minutes","intents":"Time"}
+{"text":"Find the movie schedule for animated movies around here.","intents":"Time"}
+{"text":"what animated movies are in the neighbourhood","intents":"Time"}
+{"text":"What are movie times for animated movies close by?","intents":"Time"}
+{"text":"find Kerasotes Theatres with movie times","intents":"Time"}
+{"text":"find movie schedules for AMC Theaters","intents":"Time"}
+{"text":"Can you let me know when Troopers Three is scheduled?","intents":"Time"}
+{"text":"find films in 12 hours at the nearest movie theatre","intents":"Time"}
+{"text":"Find the movie schedule for 20:45:24.","intents":"Time"}
+{"text":"What cinema is showing Ice Station Zebra at 07:25 P.M.?","intents":"Time"}
+{"text":"find a movie schedule","intents":"Time"}
+{"text":"Can i get the movie times for Fox Theatres?","intents":"Time"}
+{"text":"find animated movies at Amco Entertainment","intents":"Time"}
+{"text":"find movie times","intents":"Time"}
+{"text":"Show the movie schedule","intents":"Time"}
+{"text":"List films at Pacific Theatres","intents":"Time"}
+{"text":"show movie times in North American Cinemas","intents":"Time"}
+{"text":"What movies are showing at the Showcase Cinemas","intents":"Time"}
+{"text":"Find me the movie schedules at Fox Theatres","intents":"Time"}
+{"text":"What animated movies are at Pacific Theatres","intents":"Time"}
+{"text":"Find time for College Rock Stars at any movie theatre","intents":"Time"}
+{"text":"Where is the closest cinema that is playing The Honeymoon Killers","intents":"Time"}
+{"text":"Is The Happy Hooker Goes Hollywood at the movie house nearest me\n","intents":"Time"}
+{"text":"What films are showing at the closest movie theatre?","intents":"Time"}
+{"text":"Where is The Penthouse playing","intents":"Time"}
+{"text":"where is My Song Goes Forth playing","intents":"Time"}
+{"text":"Is Love, Marilyn playing","intents":"Time"}
+{"text":"Where is the nearest movie house that is showing The Kingfisher Caper?","intents":"Time"}
+{"text":"What movies are at North American Cinemas","intents":"Time"}
+{"text":"what movies are playing at Warren Theatres","intents":"Time"}
+{"text":"what movies are close by","intents":"Time"}
+{"text":"Show the nearest movie house with The Expendables starting 1 minute from now","intents":"Time"}
+{"text":"find movies in the neighbourhood with movie times","intents":"Time"}
+{"text":"what films are at the nearest cinema","intents":"Time"}
+{"text":"what time can i see Mojave Phone Booth","intents":"Time"}
+{"text":"Please shoe me the movie schedule for today.\n","intents":"Time"}
+{"text":"Is A Master of Craft playing at Wanda Group","intents":"Time"}
+{"text":"Find the movie schedules for nearby movies.","intents":"Time"}
+{"text":"Find time for The Thirty Nine Steps ","intents":"Time"}
+{"text":"What is the movie schedules for films in the neighborhood","intents":"Time"}
+{"text":"find a movie house with Hollow Reed","intents":"Time"}
+{"text":"Let me know the movie times for films in the area.","intents":"Time"}
+{"text":"What time is The Message playing at Loews Cineplex?","intents":"Time"}
+{"text":"Fine movie schedules for Speakeasy Theaters.","intents":"Time"}
+{"text":"what animated movies are showing nearby","intents":"Time"}
+{"text":"Can I get the showtimes for The Kitchen Toto at Cineplex Odeon Corporation.","intents":"Time"}
+{"text":"What time around here can I fins animated movies","intents":"Time"}
+{"text":"does Red e Toby nemiciamici start thirteen hours from now","intents":"Time"}
+{"text":"What is on the movie schedule for four AM at Landmark Theatres","intents":"Time"}
+{"text":"What time is cinema playing The Village Priest?","intents":"Time"}
+{"text":"Show me the movie schedule for Loews Cineplex.","intents":"Time"}
+{"text":"List movie times playing animated movies nearby","intents":"Time"}
+{"text":"find Santikos Theatres showing animated movies","intents":"Time"}
+{"text":"Where is the nearest movie theatre that is playing The King Maker","intents":"Time"}
+{"text":"Can i get the showtimes for Man in Blues?","intents":"Time"}
+{"text":"I'd like the movie schedules nearby me for animated movies","intents":"Time"}
+{"text":"Advise me on the movie schedule of films that will be playing at 07:31:32 pm at a place close by.","intents":"Time"}
+{"text":"What time will The Age of Success be showing?","intents":"Time"}
+{"text":"What Pacific Theatres are playing animated movies","intents":"Time"}
+{"text":"find the nearest movies at a movie theatre","intents":"Time"}
+{"text":"Show me the animated movies starting at 10:56:18 a.m. at the nearest movie house","intents":"Time"}
+{"text":"What animated movies are showing at Loews Cineplex","intents":"Time"}
+{"text":"Find the schedule for Fear Chamber.","intents":"Time"}
+{"text":"What films are showing at Kerasotes Theatres","intents":"Time"}
+{"text":"what movies are playing in the neighborhood ","intents":"Time"}
+{"text":"What animated movies are playing at IMAX Corporation?","intents":"Time"}
+{"text":"What time is See Grace Fly playing at Cineplex Odeon Corporation","intents":"Time"}
+{"text":"Show movie schedules for Marcus Corporation","intents":"Time"}
+{"text":"Can I get the showtimes for Fit for a King?","intents":"Time"}
+{"text":"find a movie house for 07:52 showing Ganges: River to Heaven","intents":"Time"}
+{"text":"Can you tell me the movie times for Alamo Drafthouse Cinema","intents":"Time"}
+{"text":"what films are on the movie schedule around here ","intents":"Time"}
+{"text":"Can you give me the movie schedule for Amco Entertainment?","intents":"Time"}
+{"text":"What time is The Corner playing","intents":"Time"}
+{"text":"During tea time, what animated movies will be screening at the closest movie house?","intents":"Time"}
+{"text":"Where can I see Young Goethe in Love?","intents":"Time"}
+{"text":"Find movie schedules.","intents":"Time"}
+{"text":"find Chained Heat","intents":"Time"}
+{"text":"What time is The Secretary playing at the movie theatre?","intents":"Time"}
+{"text":"what time is Dark World showing at Consolidated Theatres","intents":"Time"}
+{"text":"What is the nearest movie house playing George Washington Slept Here","intents":"Time"}
+{"text":"Which animated movies are being screened at Marcus Corporation?","intents":"Time"}
+{"text":"What are the showtimes for Boy of Mine","intents":"Time"}
+{"text":"what time is The Eddy Duchin Story playing","intents":"Time"}
+{"text":"Show me the closest movie house playing An Unfinished Life at eight pm.","intents":"Time"}
+{"text":"can I get the showings for films at the nearest cinema in 1 minute ","intents":"Time"}
+{"text":"What are the showtimes for Beware! The Blob at Plitt Theatres?","intents":"Time"}
+{"text":"What are the movie times for the Caribbean Cinemas?","intents":"Time"}
+{"text":"Give me the showtimes for Sign of the Anchor.","intents":"Time"}
+{"text":"Where is The Man with a Cross playing","intents":"Time"}
+{"text":"Find the schedule for Salt of the Black Earth at the closest movie house.","intents":"Time"}
+{"text":"When will The Boys Next Door be playing at the nearest  movie house","intents":"Time"}
+{"text":"is Tarzan of the Apes playing at Cobb Theatres","intents":"Time"}
+{"text":"I want to watch Looney Tunes Platinum Collection: Volume 1 at a movie theatre","intents":"Time"}
+{"text":"Show me Dombey and Son movies.","intents":"Time"}
+{"text":"What are the movie schedules for animated movies close by","intents":"Time"}
+{"text":"Can I get the showtimes for films at the closest movie house.","intents":"Time"}
+{"text":"tell me the movie schedule","intents":"Time"}
+{"text":"what's the nearest cinema showing The Death of Stalinism in Bohemia 1 second from now","intents":"Time"}
+{"text":"I want to know what movies are showing at the nearest movie house.","intents":"Time"}
+{"text":"Find the schedule for The Nightmare six hours from now at the nearest cinema.","intents":"Time"}
+{"text":"find The Bride","intents":"Time"}
+{"text":"find movie schedules","intents":"Time"}
+{"text":"Where is Priorities on Parade playing","intents":"Time"}
+{"text":"What Howards End cinema is near?","intents":"Time"}
+{"text":"find the closest films at a movie house","intents":"Time"}
+{"text":"What time is Summer School playing?","intents":"Time"}
+{"text":"Find the movie schedules for films in the area.","intents":"Time"}
+{"text":"show movie times at Cinemark Theatres","intents":"Time"}
+{"text":"Can you let me know where I can watch The Nest?","intents":"Time"}
+{"text":"Tell me the movie schedules for Mann Theatres","intents":"Time"}
+{"text":"Find the schedule for films at the closest movie house.","intents":"Time"}
+{"text":"I'd like to watch movies at KB Theatres","intents":"Time"}
+{"text":"Where is the nearest movie theatre that is playing Honeysuckle Rose","intents":"Time"}
+{"text":"Give me a list of movie times for films in the area.","intents":"Time"}
+{"text":"What time is Showcase Cinemas playing Straight Is the Way","intents":"Time"}
+{"text":"show me the schedule of movie Shadow of a Woman","intents":"Time"}
+{"text":"What time is The Mailman playing","intents":"Time"}
+{"text":"what is the movie schedules for movies in the area ","intents":"Time"}
+{"text":"What time is Soul Surfer playing","intents":"Time"}
+{"text":"find the closest movie theatre for films","intents":"Time"}
+{"text":"find The Swindlers at the closest movie house","intents":"Time"}
+{"text":"Find movie times.","intents":"Time"}
+{"text":"When is Janeane from Des Moines playing at the nearest movie theatre?","intents":"Time"}
+{"text":"Is this film going to be at Malco Theatres?","intents":"Time"}
+{"text":"what's the closest cinema showing animated movies","intents":"Time"}
+{"text":"show me movie times at my local theater.","intents":"Time"}
+{"text":"What is the nearest cinema playing Patiala House","intents":"Time"}
+{"text":"What is the Wanda Group movie schedules ","intents":"Time"}
+{"text":"is One Night Surprise at the cinema","intents":"Time"}
+{"text":"What time does Kraken: Tentacles of the Deep play","intents":"Time"}
+{"text":"Where is the closest cinema that features animated movies","intents":"Time"}
+{"text":"I'd like to watch The Holy Office at Cooper Foundation","intents":"Time"}
+{"text":"what are the movietimes for films in the neighbourhood","intents":"Time"}
+{"text":"what film to see at ArcLight Hollywood","intents":"Time"}
+{"text":"Which films are playing at Consolidated Theatres?","intents":"Time"}
+{"text":"Is The Mystical Adventures of Billy Owens playing at the closest movie house","intents":"Time"}
+{"text":"I'd like to watch movies around here, can I see the movie schedules","intents":"Time"}
+{"text":"What are the movie schedules for movies showing in the neighbourhood?","intents":"Time"}
+{"text":"Find a movie schedule for 12 hours from now.","intents":"Time"}
+{"text":"Find movie times for films in the area.","intents":"Time"}
+{"text":"Which cinema is showing A Dedicated Life starting at eleven PM","intents":"Time"}
+{"text":"What's today's movie schedule","intents":"Time"}
+{"text":"Find movie schedules.","intents":"Time"}
+{"text":"Find movie schedules for movies around here at nineteen o'clock.","intents":"Time"}
+{"text":"Give me the local movie times.","intents":"Time"}
+{"text":"movie schedule at Cinemark Theatres","intents":"Time"}
+{"text":"show me movie times for Southern Theatres","intents":"Time"}
+{"text":"What films are playing now at the General Cinema Corporation","intents":"Time"}
+{"text":"Can I get showtimes for films in the neighborhood.","intents":"Time"}
+{"text":"Find the schedule for Rare Birds at the nearest movie theatre at Noon.","intents":"Time"}
+{"text":"What movies are playing at Mann Theatres","intents":"Time"}
+{"text":"what time is The Challenge showing at the local movie house","intents":"Time"}
+{"text":"Find movie schedules for nearby films.","intents":"Time"}
+{"text":"show movie schedule in the neighbourhood films at five hours from now","intents":"Time"}
+{"text":"What is the movie schedule for General Cinema Corporation?","intents":"Time"}
+{"text":"find a nearby movie schedules for movies","intents":"Time"}
+{"text":"Show me movie times  at Harkins Theatres.","intents":"Time"}
+{"text":"show nearest movie theatre to watch Black Jesus","intents":"Time"}
+{"text":"What movies are playing at AMC Theatres?","intents":"Time"}
+{"text":"When is That Forward Center Died at Dawn playing at the closest cinema?","intents":"Time"}
+{"text":"Please give me the movie schedule for Pacific Theatres","intents":"Time"}
+{"text":"Show me movie schedule for animated movie around here at eleven a.m.","intents":"Time"}
+{"text":"Please give me information on when Prisoner of Zenda will be shown.","intents":"Time"}
+{"text":"find Mysterious Castles of Clay","intents":"Time"}
+{"text":"Show the movie schedule and movies around here","intents":"Time"}
+{"text":"Where is the closest movie theatre that is playing movies now","intents":"Time"}
+{"text":"Whens the next showing of The Game of Their Lives","intents":"Time"}
+{"text":"what's the closest movie house showing The Hard Way","intents":"Time"}
+{"text":"What cinema is playing Great Guy\n","intents":"Time"}
+{"text":"Find movie times for close by films.","intents":"Time"}
+{"text":"Where is My Dearest Enemy playing","intents":"Time"}
+{"text":"Find the schedule for Without Witness twenty two hours from now.","intents":"Time"}
+{"text":"movie schedules for Neighborhood Cinema Group","intents":"Time"}
+{"text":"What is the movie times for General Cinema Corporation","intents":"Time"}
+{"text":"What Are the showings for The Natural History of Parking Lots movie house","intents":"Time"}
+{"text":"What is the movie schedule at Cineplex Odeon Corporation 12 hours from now","intents":"Time"}
+{"text":"where is The Country Bears playing","intents":"Time"}
+{"text":"is Ce cher intrus at IMAX Corporation","intents":"Time"}
+{"text":"What time is Trouble Every Day playing","intents":"Time"}
+{"text":"What are the movie times?","intents":"Time"}
+{"text":"I want to see Dead Calm at the closest cinema","intents":"Time"}
+{"text":"What time is the closet cinema playing movies the closest","intents":"Time"}
+{"text":"What time is Thick as Thieves playing at Santikos Theatres?","intents":"Time"}
+{"text":"When is Harassed being played at Plitt Theatres?","intents":"Time"}
+{"text":"What animated movies are playing at IMAX Corporation","intents":"Time"}
+{"text":"Where can I get movie schedule","intents":"Time"}
+{"text":"When can I go see The Untold Story?","intents":"Time"}
+{"text":"Find me the showtimes for Until Death at the nearest movie house.","intents":"Time"}
+{"text":"What is the AMC Theaters movie schedule?","intents":"Time"}
+{"text":"When is The Sea of Grass playing at the movie theatre","intents":"Time"}
+{"text":"Can i get the movie schedule for Megaplex Theatres.","intents":"Time"}
+{"text":"What films are showing at three o'clock at the Neighborhood Cinema Group?","intents":"Time"}
+{"text":"in the neighborhood find movie times for movies","intents":"Time"}
+{"text":"Find the schedule for Wenn Lucy springt now at a movie theatre.","intents":"Time"}
+{"text":"Are there any films around here","intents":"Time"}
+{"text":"Is Jack the Ripper playing in one hour at the nearest movie house?","intents":"Time"}
+{"text":"when can i see We and Our Mountains","intents":"Time"}
+{"text":"i want to watch The Shamrock Handicap right now","intents":"Time"}
+{"text":"Is Cradle Robbers playing at the nearest movie theatre","intents":"Time"}
+{"text":"What is the movie schedule for the movies that are playing nearby?","intents":"Time"}
+{"text":"find Good Night, and Good Luck at a Cinemark Theatres","intents":"Time"}
+{"text":"Find the movie schedule for animated movies in the area.","intents":"Time"}
+{"text":"Can you pull up a movie schedule for me?","intents":"Time"}
+{"text":"What is the movie schedule for animated movies in the area","intents":"Time"}
+{"text":"whats the movie schedule for movies nearby","intents":"Time"}
+{"text":"I'd like to know when I can see The Taking of Flight 847: The Uli Derickson Story at Amco Entertainment.","intents":"Time"}
+{"text":"What movies are playing at Southern Theatres","intents":"Time"}
+{"text":"What films are going to be playing at Harkins Theatres at zero a.m.?","intents":"Time"}
+{"text":"What are movie times for movies playing in the neighborhood?","intents":"Time"}
+{"text":"What time is Scream of Stone playing","intents":"Time"}
+{"text":"What are the movie times for movies premiering in the neighbourhood ","intents":"Time"}
+{"text":"Give me the showtime for Bobby Yeah playing at the cinema","intents":"Time"}
+{"text":"Find movie times.","intents":"Time"}
+{"text":"find the nearest movie house showing Good Morning, Babylon","intents":"Time"}
+{"text":"What animated movies are playing in thirteen hours at the closest movie theatre","intents":"Time"}
+{"text":"When is One Sunday Morning scheduled to be played?","intents":"Time"}
+{"text":"find Cinemark Theatres with films","intents":"Time"}
+{"text":"What time is Stranger in Town playing at the nearest cinema?","intents":"Time"}
+{"text":"I'd like to watch Nathan the Wise at the closest movie house","intents":"Time"}
+{"text":"What time is Crawlspace playing at the Caribbean Cinemas","intents":"Time"}
+{"text":"Find the movie schedule for 12:53 AM","intents":"Time"}
+{"text":"Find the movie schedule for movies in the area.","intents":"Time"}
+{"text":"Find me the movie schedule for ArcLight Hollywood","intents":"Time"}
+{"text":"What are the movie schedules for Kerasotes Theatres","intents":"Time"}
+{"text":"find films in the neighborhood","intents":"Time"}
+{"text":"Find movie schedules.","intents":"Time"}
+{"text":"What time is The Night Before the Premiere playing at the movie house","intents":"Time"}
+{"text":"I'd like to watch The Details at the cinema","intents":"Time"}
+{"text":"is The Slut playing at 07:27 A.M. at Harkins Theatres","intents":"Time"}
+{"text":"Find the movie schedules at Magic Johnson Theatres","intents":"Time"}
+{"text":"Show movie times of movies in the neighbourhood","intents":"Time"}
+{"text":"Which is the nearest cinema showing movies that start in nineteen seconds?","intents":"Time"}
+{"text":"What are the movie times at Goodrich Quality Theaters","intents":"Time"}
+{"text":"Can I get the showtimes for films at Malco Theatres.","intents":"Time"}
+{"text":"I need a list of animated movies playing around here","intents":"Time"}
+{"text":"When is One by One playing?","intents":"Time"}
+{"text":"What animated movies are on the movie schedule close by?","intents":"Time"}
+{"text":"give me the local movie times","intents":"Time"}
+{"text":"Give me the movie schedule for Cineplex Odeon Corporation","intents":"Time"}
+{"text":"when can i see Red Hot Tires","intents":"Time"}
+{"text":"find movie schedules in MJR Theatres","intents":"Time"}
+{"text":"find movie schedules in Warren Theatres","intents":"Time"}
+{"text":"Tell me the films playing at the closest movie house to me","intents":"Time"}
+{"text":"Find me the showtimes for How to Commit Marriage.","intents":"Time"}
+{"text":"Find the schedule for No Time to Be Young at AMC Theaters.","intents":"Time"}
+{"text":"Find movies playing at the closest movie theatre","intents":"Time"}
+{"text":"Can I know what animated movies are scheduled in the neighbourhood?","intents":"Time"}
+{"text":"Find the schedule for for The Unnaturals at 13.","intents":"Time"}
+{"text":"find Plitt Theatres showing animated movies","intents":"Time"}
+{"text":"What is the movie schedule for the North American Cinemas","intents":"Time"}
+{"text":"When will The Honor of an Outlaw be showing?","intents":"Time"}
+{"text":"What animated movies are in the neighbourhood ","intents":"Time"}
+{"text":"find movies close by","intents":"Time"}
+{"text":"What is the movie schedule today at Neighborhood Cinema Group?","intents":"Time"}
+{"text":"Find what movies are showing at the nearest movie house","intents":"Time"}
+{"text":"find the nearest movie theatre with movies","intents":"Time"}
+{"text":"show movie times of Regal Entertainment Group","intents":"Time"}
+{"text":"I'd like to watch films in 23 hours in the neighborhood","intents":"Time"}
+{"text":"What time is The Sea Chase playing","intents":"Time"}
+{"text":"Find movie schedules for close by films.","intents":"Time"}
+{"text":"what animated movie are at the theater in the neighborhood","intents":"Time"}
+{"text":"Is the start time 15:16:52 for movies in the neighborhood ","intents":"Time"}
+{"text":"find The Terror Within","intents":"Time"}
+{"text":"show me the schedule of American Primitive in Santikos Theatres","intents":"Time"}
+{"text":"What time is In the Crosswind playing at Marcus Corporation?","intents":"Time"}
+{"text":"show me movies in the area","intents":"Time"}
+{"text":"What is the movie schedule","intents":"Time"}
+{"text":"I'd like to watch In High Places","intents":"Time"}
+{"text":"When is Just Before Nightfall playing?","intents":"Time"}
+{"text":"find a movie theatre with animated movies that is closest to me","intents":"Time"}
+{"text":"What films are at Century Theatres in twelve hours","intents":"Time"}
+{"text":"What films start at eighteen at Caribbean Cinemas","intents":"Time"}
+{"text":"Can I get the Cineplex Odeon Corporation showings for Small Town Story?","intents":"Time"}
+{"text":"what's the closest cinema playing Six Days: Three Activists, Three Wars, One Dream at sunrise","intents":"Time"}
+{"text":"Can you let me know what animated movies are playing close by?","intents":"Time"}
+{"text":"Where is Feast II: No Limit playing","intents":"Time"}
+{"text":"Where theater is playing The Ranger and the Lady at 10 AM","intents":"Time"}
+{"text":"Find the schedule for movies at the nearest cinema.","intents":"Time"}
+{"text":"what time is Mulawin: The Movie showing at the nearest movie house","intents":"Time"}
+{"text":"I want movie times for Fox Theatres","intents":"Time"}
+{"text":"What time is Tasher Desh playing at the nearest movie house","intents":"Time"}
+{"text":"What time does Tie a Yellow Ribbon play at Magic Johnson Theatres?","intents":"Time"}
+{"text":"What movies are playing at the closest movie theatre","intents":"Time"}
+{"text":"find nearby movies","intents":"Time"}
+{"text":"Tell me the movie schedules for Loews Cineplex Entertainment","intents":"Time"}
+{"text":"When is The Life and Death of King Richard II playing at Mann Theatres?","intents":"Time"}
+{"text":"What are the movie schedules for the Loews Cineplex","intents":"Time"}
+{"text":"Find the movie schedule for movies close by.","intents":"Time"}
+{"text":"What animated movies are playing nearby","intents":"Time"}
+{"text":"What time does Johnny Got His Gun play","intents":"Time"}
+{"text":"Find movie times for nine PM.","intents":"Time"}
+{"text":"Show me the movie schedules for the nearest movie theatre in Invasion U.S.A..","intents":"Time"}
+{"text":"Show the movie schedules at MJR Theatres","intents":"Time"}
+{"text":"List movie times at B&B Theatres","intents":"Time"}
+{"text":"what films are playing at the nearest movie house","intents":"Time"}
+{"text":"could you please show me movie schedules","intents":"Time"}
+{"text":"find a movie schedule in the neighborhood for animated movies","intents":"Time"}
+{"text":"I want to go see A Troll in Central Park.","intents":"Time"}
+{"text":"show me animated movies with movie times close by","intents":"Time"}
+{"text":"Tell me what movies are showing at seven am at the closest movie house.","intents":"Time"}
+{"text":"where is The Adventure of the Yellow Curl Papers playing","intents":"Time"}
+{"text":"can i have the movie schedules","intents":"Time"}
+{"text":"Showtimes for animated movies fro Goodrich Quality Theaters.","intents":"Time"}
+{"text":"What movie schedules are animated movies close by","intents":"Time"}
+{"text":"Where the Sky Meets the Land time playing","intents":"Time"}
+{"text":"what movie is playing at Showcase Cinemas ","intents":"Time"}
+{"text":"find the closest showing of The Taste of Others at a cinema","intents":"Time"}
+{"text":"Find movie schedules.","intents":"Time"}
+{"text":"I need an animated movies in the area for dinner time","intents":"Time"}
+{"text":"show me the movie schedules for animated movies around here","intents":"Time"}
+{"text":"Can I get the showings for Mysterious Crossing?","intents":"Time"}
+{"text":"When is Up the Yangtze playing at Goodrich Quality Theaters","intents":"Time"}
+{"text":"What movies are showing at the nearest movie theatre in 8 minutes?","intents":"Time"}
+{"text":"what movies are playing in the area?","intents":"Time"}
+{"text":"Find movie schedules.","intents":"Time"}
+{"text":"what's the movie schedules for Magic Johnson Theatres","intents":"Time"}
+{"text":"What movies are playing in the area?","intents":"Time"}
+{"text":"find movie times","intents":"Time"}
+{"text":"Let me know what animated movies are playing around here.","intents":"Time"}
+{"text":"Can I get the showtimes for animated movie in the neighbourhood?","intents":"Time"}
+{"text":"I need a movie schedule for any films playing close by","intents":"Time"}
+{"text":"find a Consolidated Theatres showing The Good Old Naughty Days","intents":"Time"}
+{"text":"When is Watchman Vadivel playing?","intents":"Time"}
+{"text":"Can you pull up showings for Pop Goes the Easel at the local movie theatre?","intents":"Time"}
+{"text":"what films are playing at the closest movie house","intents":"Time"}
+{"text":"i want to see Love, Speed and Thrills at the nearest cinema","intents":"Time"}
+{"text":"Tell me where I can watch Common Law Cabin","intents":"Time"}
+{"text":"find movie schedules","intents":"Time"}
+{"text":"Find movie times for animated movies in the area.","intents":"Time"}
+{"text":"when this evening is Casa Amor: Exclusive for Ladies playing and where","intents":"Time"}
+{"text":"Find movie times.","intents":"Time"}
+{"text":"I'd like to see the movie schedule for movies in the area","intents":"Time"}
+{"text":"Is Gods of Metal playing","intents":"Time"}
+{"text":"Is Black & White: The Dawn of Justice playing at the movie theatre?","intents":"Time"}
+{"text":"Is The Umbrellas of Cherbourg playing near me?","intents":"Time"}
+{"text":"What are the movie schedules","intents":"Time"}
+{"text":"whats the closest movie house showing Home Room","intents":"Time"}
+{"text":"What is the nearest movie theatre showing Ocean\u2019s 13?","intents":"Time"}
+{"text":"Find movie times.","intents":"Time"}
+{"text":"show movie schedule in MJR Theatres","intents":"Time"}
+{"text":"Tell me what films are playing at Plitt Theatres","intents":"Time"}
+{"text":"What is the showtime for Arsho","intents":"Time"}
+{"text":"tell me what films are around here","intents":"Time"}
+{"text":"show me movie schedules","intents":"Time"}
+{"text":"What time is The Bride\u2019s Journey playing at Star Theatres?","intents":"Time"}
+{"text":"What movie theatre is playing The Magnificent Scoundrels","intents":"Time"}
+{"text":"find a cinema nearest showing Twilight of Shadows at breakfast time","intents":"Time"}
+{"text":"find KB Theatres with movies","intents":"Time"}
+{"text":"I need movie times for movies playing in the area","intents":"Time"}
+{"text":"What is the local movie schedule","intents":"Time"}
+{"text":"find movie schedules in the neighborhood for movies","intents":"Time"}
+{"text":"Find me the nearest movie house that is showing The Saviour.","intents":"Time"}
+{"text":"What is the movie times","intents":"Time"}
+{"text":"Where is the closest movie house that's playing The Mark?","intents":"Time"}
+{"text":"give me the movie times","intents":"Time"}
+{"text":"What is the movie schedule for movies close by","intents":"Time"}
+{"text":"What are the movie schedules","intents":"Time"}
+{"text":"What are the movie schedule now","intents":"Time"}
+{"text":"Show the movie times","intents":"Time"}
+{"text":"Which animated movies are showing close by?","intents":"Time"}
+{"text":"Can I get the showtimes for the closest cinema showing I\u2019m a Cyborg, But That\u2019s OK.","intents":"Time"}
+{"text":"Please give me movie schedules","intents":"Time"}
+{"text":"When is The Third Eye showing at Dickinson Theatres?","intents":"Time"}
+{"text":"Find time for films at the North American Cinemas","intents":"Time"}
+{"text":"What time is The Hotline playing at the movie theatre","intents":"Time"}
+{"text":"Show me the films close by and the movie times for today.","intents":"Time"}
+{"text":"Please show me the movies playing at Amco Entertainment.","intents":"Time"}
+{"text":"List films in the neighborhood.","intents":"Time"}
+{"text":"Show me the closest cinema playing movies.","intents":"Time"}
+{"text":"I want to see The Happy Thieves at Marcus Corporation, can you show me movie times.","intents":"Time"}
+{"text":"where can i see animated movies in the neighborhood ","intents":"Time"}
+{"text":"what films are showing in the neighbourhood ","intents":"Time"}
+{"text":"what films are showing nearby","intents":"Time"}
+{"text":"What movies are playing at Cobb Theatres","intents":"Time"}
+{"text":"Can I get the movie schedules for Landmark Theatres","intents":"Time"}
+{"text":"i want to watch Mr. and Mrs. Bridge at a nearest cinema","intents":"Time"}
+{"text":"What movies are playing at the closest cinema","intents":"Time"}
+{"text":"What cinema is playing The Edge","intents":"Time"}
+{"text":"Please show me the movie schedule for today.","intents":"Time"}
+{"text":"Find the schedule for Heart Beats.","intents":"Time"}
+{"text":"Show me movie times at MJR Theatres at 02:39:23 pm","intents":"Time"}
+{"text":"Show movie schedules at AMC Theaters","intents":"Time"}
+{"text":"Is the films 19 hours from now playing at Landmark Theatres","intents":"Time"}
+{"text":"Show me the movie times","intents":"Time"}
+{"text":"Show me showtimes at the cinema for Chain of Events.","intents":"Time"}
+{"text":"What is the films with movie times in the area","intents":"Time"}
+{"text":" What is the nearest cinema playing The Hour of Temptation","intents":"Time"}
+{"text":"What films are playing at Pacific Theatres","intents":"Time"}
+{"text":"find Mann Theatres movie schedule","intents":"Time"}
+{"text":"what animated movies can i see at Malco Theatres","intents":"Time"}
+{"text":"is Unbeatable Harold at Century Theatres","intents":"Time"}
+{"text":"When is Youth Without Youth being shown at the nearest movie house?","intents":"Time"}
+{"text":"What is the movie schedule at Dipson Theatres","intents":"Time"}
+{"text":"What animated movies are around here","intents":"Time"}
+{"text":"Can i get the movie schedule for eleven hours from now?","intents":"Time"}
+{"text":"find a movie house closest with Beethoven Lives Upstairs","intents":"Time"}
+{"text":"I want to watch Fist of the North Star 1 minute from now","intents":"Time"}
+{"text":"Show me the movie times at Star Theatres","intents":"Time"}
+{"text":"Which movies are playing at AMC Theaters?","intents":"Time"}
+{"text":"What movies are starting at eight pm in the area ","intents":"Time"}
+{"text":"What films are in the neighborhood","intents":"Time"}
+{"text":"Show movie schedules of film nearby","intents":"Time"}
+{"text":"what films are on the movie schedule for ten at a close by theater","intents":"Time"}
+{"text":"Show me the current movie times","intents":"Time"}
+{"text":"I need to see a list of films and movie times in the area ","intents":"Time"}
+{"text":"Can I get the movie schedule for the Bow Tie Cinemas.","intents":"Time"}
+{"text":"What films are showing at National Amusements","intents":"Time"}
+{"text":"What time is The Bride from Hell playing at Malco Theatres","intents":"Time"}
+{"text":"Find the schedule for Across the Line at the closest movie house.","intents":"Time"}
+{"text":"what animated movies are showing in the neighbourhood","intents":"Time"}
+{"text":"Give ma list of films at Harkins Theatres","intents":"Time"}
+{"text":"Which films are playing in the neighborhood one second from now?","intents":"Time"}
+{"text":"I want to watch Uproar in the Studio at the nearest cinema","intents":"Time"}
+{"text":"What do the movie schedules at B&B Theatres look like?","intents":"Time"}
+{"text":"Find the movie times for North American Cinemas.","intents":"Time"}
+{"text":"Where is the nearest movie theatre playing The Sword of Many Lovers?","intents":"Time"}
+{"text":"Can I get the movie times for the newest movies around here?","intents":"Time"}
+{"text":"find the nearest movie theatre for animated movies","intents":"Time"}
+{"text":"What is the closest movie house playing What the Swedish Butler Saw","intents":"Time"}
+{"text":"Show me movie times","intents":"Time"}
+{"text":"Show me the movie schedule for movies around here","intents":"Time"}
+{"text":"Is Strauss Is Playing Today at the Cineplex Odeon Corporation","intents":"Time"}
+{"text":"I want to go see A Simple Noodle Story in seventeen seconds at Goodrich Quality Theaters.","intents":"Time"}
+{"text":"What films are playing now at the closest movie house?","intents":"Time"}
+{"text":"what movies are around here","intents":"Time"}
+{"text":"find animated movies at the nearest movie theatre","intents":"Time"}
+{"text":"in the neighbourhood find 11 p.m. movie schedules for movies","intents":"Time"}
+{"text":"What time is \u697d\u5712\u8ffd\u653e -Expelled from Paradise-","intents":"Time"}
+{"text":"What films are at National Amusements","intents":"Time"}
+{"text":"Find a movie schedule.","intents":"Time"}
+{"text":"what films are showing at Century Theatres","intents":"Time"}
+{"text":"I'd like to watch Take This Waltz","intents":"Time"}
+{"text":"find Whosoever Shall Offend at Showcase Cinemas","intents":"Time"}
+{"text":"Find the movie times for nearby films.","intents":"Time"}
+{"text":"Is Millions in the Air playing at the cinema","intents":"Time"}
+{"text":"What time is Murph the Surf playing","intents":"Time"}
+{"text":"What time will the movie house be showing On the Beat","intents":"Time"}
+{"text":"find Afternoon movie times for movies in the neighborhood","intents":"Time"}
+{"text":"I'm looking for movie schedule for films playing in the neighborhood.","intents":"Time"}
+{"text":"I'd like to watch movies close by","intents":"Time"}
+{"text":"Show the movie schedules with animated movies around here","intents":"Time"}
+{"text":"What time is Bhoomi Geetha playing at the movie theatre","intents":"Time"}
+{"text":"Show the movie times","intents":"Time"}
+{"text":"I'd like to watch Army at Wanda Group","intents":"Time"}
+{"text":"can i have the movie schedules","intents":"Time"}
+{"text":"What is the movie schedule for Loews Cineplex Entertainment","intents":"Time"}
+{"text":"What's the movie schedule for B&B Theatres?","intents":"Time"}
+{"text":"Find the schedule for Tailspin Tommy in the Great Air Mystery.","intents":"Time"}
+{"text":"Find movie schedules for animated movies in the area","intents":"Time"}
+{"text":"What animated movies can I see at AMC Theatres?","intents":"Time"}
+{"text":"find the closest movie theatre with animated movies","intents":"Time"}
+{"text":"What films are playing at the nearest movie theatre","intents":"Time"}
+{"text":"What time is Dive Bomber playing","intents":"Time"}
+{"text":"find a movie schedule","intents":"Time"}
+{"text":"I'd like to go to Douglas Theatre Company to see In Beaver Valley, what times will the movie be playing?","intents":"Time"}
+{"text":"What films can I see at Malco Theatres?","intents":"Time"}
+{"text":"What time is The Brat playing at the movie house?","intents":"Time"}
+{"text":"Tell me what animated movies I can see at the closest movie theatre","intents":"Time"}
+{"text":"What animated movies are at the closest movie house near brunch","intents":"Time"}
+{"text":"Find the schedule for A Kiss Before Dying.","intents":"Time"}
+{"text":"Give me the showtimes for The Rum Diary at MJR Theatres at meal time.","intents":"Time"}
+{"text":"What movies are in the area","intents":"Time"}
+{"text":"When is We Stick Together Through Thick and Thin playing at ArcLight Hollywood?","intents":"Time"}
+{"text":"What movie theatre is palying The Hurricane five hours from now","intents":"Time"}
+{"text":"What animated movies are playing at the closest cinema?","intents":"Time"}
+{"text":"show me the schedule of films close by","intents":"Time"}
+{"text":"Find me the movie schedules","intents":"Time"}
+{"text":"show me the schedule of A Man, a Woman, and a Bank in nearest Neighborhood Cinema Group","intents":"Time"}
+{"text":"what time can I expect films to start at the Bow Tie Cinemas","intents":"Time"}
+{"text":"Is Proudly She Marches playing anywhere?","intents":"Time"}
+{"text":"Find the schedule for Grand Canyon Trail.","intents":"Time"}
+{"text":"show me the schedule of movie Thirty Two Short Films About Glenn Gould in 14 minutes","intents":"Time"}
+{"text":"What time is American Gun playing","intents":"Time"}
+{"text":"find Fox Theatres with The Caretaker","intents":"Time"}
+{"text":"Please tell me the current and local movie times","intents":"Time"}
+{"text":"find Goodrich Quality Theaters films","intents":"Time"}
+{"text":"When can I watch Alice: A True Story at AMC Theatres?","intents":"Time"}
+{"text":"I want to see animated movie in the neighbourhood","intents":"Time"}
+{"text":"Find me showtimes for A Christmas Story starting at eleven o'clock.","intents":"Time"}
+{"text":"What is the movie schedule for the Pacific Theatres","intents":"Time"}
+{"text":"Please find me the movies playing nearby","intents":"Time"}
+{"text":"Find time for films at the nearest movie theatre","intents":"Time"}
+{"text":"Find movie schedules.","intents":"Time"}
+{"text":"Which Cinemark Theatres is playing A Is for Atom?","intents":"Time"}
+{"text":"Is there a movie theatre showing Last Cab to Darwin today?","intents":"Time"}
+{"text":"What time does Military history of African Americans play","intents":"Time"}
+{"text":"where is The Chief Cook playing","intents":"Time"}
+{"text":"When is Old Enough showing at the movie house?","intents":"Time"}
+{"text":"What films are playing at the closest cinema","intents":"Time"}
+{"text":"What animated movies are playing nearby?","intents":"Time"}
+{"text":"Where and when is Unleashed \u2013 Entfesselt playing","intents":"Time"}
+{"text":"Can i get todays movie schedule for the movies that are close by?","intents":"Time"}
+{"text":"Find me animated movies at Amco Entertainment tomorrow","intents":"Time"}
+{"text":"What movies are in the neighbourhood ","intents":"Time"}
+{"text":"What time is Exploits of a Young Don Juan playing?","intents":"Time"}
+{"text":"Show me some movie times","intents":"Time"}
+{"text":"Is People of the Cumberland playing at Landmark Theatres now\n\n","intents":"Time"}
+{"text":"What time is In Old New Mexico showing today?","intents":"Time"}
+{"text":"does Mexican Werewolf start at three am","intents":"Time"}
+{"text":"Can I get the showtimes for The Man Who Could Talk to Kids?","intents":"Time"}
+{"text":"what time is Tom y Jerry showing at Alamo Drafthouse Cinema","intents":"Time"}
+{"text":"what movies are playing at the Alamo Drafthouse Cinema","intents":"Time"}
+{"text":"What time is Children of Divorce playing","intents":"Time"}
+{"text":"When is Heat playing near me?","intents":"Time"}
+{"text":"Show the movie schedule","intents":"Time"}
+{"text":"Show the movie schedule","intents":"Time"}
+{"text":"show me the schedule of movie times","intents":"Time"}
+{"text":"When and where is Nefertiti, Queen of the Nile playing?","intents":"Time"}
+{"text":"Where is Road to the Stage playing","intents":"Time"}
+{"text":"Give me Pacific Theatres movie schedules","intents":"Time"}
+{"text":"what's the nearest movie house showing Their Last Love Affair","intents":"Time"}
+{"text":"Where can I find the movie schedules?","intents":"Time"}
+{"text":"Show me movie times for one minute from now","intents":"Time"}
+{"text":"Give me the movie schedules at Showcase Cinemas.","intents":"Time"}
+{"text":"where can i see A Slice of Life","intents":"Time"}
+{"text":"find animated movies at Caribbean Cinemas","intents":"Time"}
+{"text":"I'd like to see the movie schedule for movies in the area","intents":"Time"}
+{"text":"find movie schedules at Loews Cineplex Entertainment","intents":"Time"}
+{"text":"movie schedules at Southern Theatres","intents":"Time"}
+{"text":"what films are showing in the neighborhood ","intents":"Time"}
+{"text":"around here find movie schedule for films","intents":"Time"}
+{"text":"Show the movie schedules at KB Theatres","intents":"Time"}
+{"text":"List movie schedules for animated movies playing in the neighbourhood","intents":"Time"}
+{"text":"show me the movie schedule for the Cooper Foundation","intents":"Time"}
+{"text":"What movies will be showing around here?","intents":"Time"}
+{"text":"I'd like to watch Bound for Glory at the closest movie theatre at 21:41:08","intents":"Time"}
+{"text":"i want to see Return to Yesterday","intents":"Time"}
+{"text":"find Quiet Night In","intents":"Time"}
+{"text":"What is the movie schedule for films nearby","intents":"Time"}
+{"text":"Where is the nearest cinema playing Compound Fracture\n","intents":"Time"}
+{"text":"Tell me what movies are playing in the neighborhood","intents":"Time"}
+{"text":"whats the closest movie theatre showing animated movies","intents":"Time"}
+{"text":"Find the schedule for close by movies.","intents":"Time"}
+{"text":"find Andreas Hofer at elevenses","intents":"Time"}
+{"text":"What is the closest cinema with animated movies","intents":"Time"}
+{"text":"Show me movie schedules for today.","intents":"Time"}
+{"text":"show me the movie schedule in the neighbourhood movies","intents":"Time"}
+{"text":"Can I get the movie schedules for Loews Cineplex?","intents":"Time"}
+{"text":"What time is The Queen of Moulin Rouge playing?","intents":"Time"}
+{"text":"Where can I see animated movies that's nearby?","intents":"Time"}
+{"text":"Please check the movie schedule.","intents":"Time"}
+{"text":"show movie times","intents":"Time"}
+{"text":"Show me the movie times for animated movies in the area .","intents":"Time"}
+{"text":"List movie times at Megaplex Theatres","intents":"Time"}
+{"text":"Where is They Always Return at Dawn playing","intents":"Time"}
+{"text":"is The Singing Nun at Regal Entertainment Group","intents":"Time"}
+{"text":"find movies at Amco Entertainment starting in 8 seconds from now","intents":"Time"}
+{"text":"Find the schedule for The Devil Diamond at a movie theatre.","intents":"Time"}
+{"text":"When and where is Invitation to the Waltz playing ","intents":"Time"}
+{"text":"when is Nattbuss 807 playing at a movie theatre near me","intents":"Time"}
+{"text":"Find Captain Kronos - Vampire Hunter.","intents":"Time"}
+{"text":"Is Redacted playing at the closest cinema?","intents":"Time"}
+{"text":"Where is the closest movie house playing films now","intents":"Time"}
+{"text":"Find movie times for movies in the neighbourhood.","intents":"Time"}
+{"text":"Find movie times.","intents":"Time"}
+{"text":"Please find the closest cinema that's playing movies at 9 am","intents":"Time"}
+{"text":"What time is The Phoenix Project playing","intents":"Time"}
+{"text":"Find the schedule for movies at the Megaplex Theatres.","intents":"Time"}
+{"text":"I'd like to watch Monk Comes Down the Mountain","intents":"Time"}
+{"text":"what time is Company Men showing","intents":"Time"}
+{"text":"Show me the movie times","intents":"Time"}
+{"text":"What movie schedule?","intents":"Time"}
+{"text":"Is Dead Fish playing at the movie house","intents":"Time"}
+{"text":"Is F.I.S.T. at Malco Theatres","intents":"Time"}
+{"text":"I need the closest movie theatre playing Incense for the Damned.","intents":"Time"}
+{"text":"find movie schedules for Dickinson Theatres","intents":"Time"}
+{"text":"Is The Kiss playing","intents":"Time"}
+{"text":"Find the schedule for The Pearl of Cleopatra.","intents":"Time"}
+{"text":"Where is the closest cinema playing I Prefer the Sound of the Sea","intents":"Time"}
+{"text":"Find movie schedules for Star Theatres.","intents":"Time"}
+{"text":"find Blood and Bones","intents":"Time"}
+{"text":"What are the movie times for Malco Theatres","intents":"Time"}
+{"text":"Is The Cycle playing at Consolidated Theatres?","intents":"Time"}
+{"text":"What is the movie schedules","intents":"Time"}
+{"text":"What are the movie times at the Loews Cineplex","intents":"Time"}
+{"text":"I'd like to watch Glass Chin at the movie house at 17:32:30","intents":"Time"}
+{"text":"whats the closest cinema showing Swamp Water","intents":"Time"}
+{"text":"find animated movies at the nearest movie theatre","intents":"Time"}
+{"text":"find The Branded Woman","intents":"Time"}
+{"text":"What animated movies are playing in the area and what is the movie schedule","intents":"Time"}
+{"text":"where is Puthri playing","intents":"Time"}
+{"text":"What time will Paris by Night aired","intents":"Time"}
+{"text":"Showtimes for animated movies in the area.","intents":"Time"}
+{"text":"Is The Ghost Breakers playing at Plitt Theatres in two hours","intents":"Time"}
+{"text":"find The Colour of the Chameleon","intents":"Time"}
+{"text":"find movie times at National Amusements","intents":"Time"}
+{"text":"show movie times of films close by","intents":"Time"}
+{"text":"Will you please pull up movie schedules for me?","intents":"Time"}
+{"text":"Where and when is Polish Economy playing?","intents":"Time"}
+{"text":"Where can I watch Gaddar: The Traitor?","intents":"Time"}
+{"text":"movie times at Cooper Foundation for sunset","intents":"Time"}
+{"text":"Give me movie times for Regal Entertainment Group","intents":"Time"}
+{"text":"List movies for nearest movie house at brunch time","intents":"Time"}
+{"text":"Can I get the movie schedules for Landmark Theatres.","intents":"Time"}
+{"text":"what time can i see The Half Naked Truth","intents":"Time"}
+{"text":"What time is Hold That Blonde playing at the closest cinema?","intents":"Time"}
+{"text":"List movie schedule","intents":"Time"}
+{"text":"Find the schedule for Blood Orgy of the Leather Girls at a movie house.","intents":"Time"}
+{"text":"Find the movie times for movies playing in the neighborhood","intents":"Time"}
+{"text":"find films at Alamo Drafthouse Cinema","intents":"Time"}
+{"text":"Look up the movie schedule","intents":"Time"}
+{"text":"What movies are playing at the closest cinema","intents":"Time"}
+{"text":"What are the movie schedules for animated movies playing in the neighborhood","intents":"Time"}
+{"text":"Can I get the movies  showtimes for the closest movie house.","intents":"Time"}
+{"text":"find animated movies in the area","intents":"Time"}
+{"text":"find close by films with a movie schedule","intents":"Time"}
+{"text":"find films scheudle in the neighborhood at 2","intents":"Time"}
+{"text":"find movie times","intents":"Time"}
+{"text":"Show the movie schedule for animated movies in the neighbourhood","intents":"Time"}
+{"text":"What time is The Glass Key playing at Caribbean Cinemas","intents":"Time"}
+{"text":"Show the movie schedule of animated movies close by","intents":"Time"}
+{"text":"Find the schedule for Death Valley Manhunt.","intents":"Time"}
+{"text":"What time is Class playing at Amco Entertainment?","intents":"Time"}
+{"text":"movie schedule for Harkins Theatres","intents":"Time"}
+{"text":"Find the schedule for Evening Clothes in 1 second.","intents":"Time"}
+{"text":"Where is the closest movie theatre playing Mighty Baby now","intents":"Time"}
+{"text":"Can I see the movie schedules?","intents":"Time"}
+{"text":"What time does the next movie play around here","intents":"Time"}
+{"text":"movie times at Consolidated Theatres","intents":"Time"}
+{"text":"what movies are showing at Fox Theatres at 11 am","intents":"Time"}
+{"text":"What time is A Man for Burning playing","intents":"Time"}
+{"text":"Can I get the showtimes for The Scarlet and the Black  at 12 pm.","intents":"Time"}
+{"text":"Find the movie schedules for animated movies in the neighbourhood.","intents":"Time"}
+{"text":"What is the movie schedule at Douglas Theatre Company","intents":"Time"}
+{"text":"Is Love Is a Ball playing right now?","intents":"Time"}
+{"text":"find movie times for movies in the neighborhood","intents":"Time"}
+{"text":"Show me the movies at the closest cinema","intents":"Time"}
+{"text":"She me movie times at Mann Theatres","intents":"Time"}
+{"text":"Is Rented Lips playing at the nearest cinema","intents":"Time"}
+{"text":"What time is Kickboxer showing at Cobb Theatres","intents":"Time"}
+{"text":"Give me some movie schedules.","intents":"Time"}
+{"text":"What time is a movie in the neighbourhood","intents":"Time"}
+{"text":"Which animated movies are playing at Megaplex Theatres at tea time?","intents":"Time"}
+{"text":"what time is One Night Stand showing at Cineplex Odeon Corporation","intents":"Time"}
+{"text":"find the closest cinema for films","intents":"Time"}
+{"text":"What is the movie schedule for any films playing close by at Sunset","intents":"Time"}
+{"text":"Can i get the movie times for Fox Theatres?","intents":"Time"}
+{"text":"Find the movie schedule for the Douglas Theatre Company.","intents":"Time"}
+{"text":"find a movie house for Kickboxer 5 \u2013 Redemption","intents":"Time"}
+{"text":"Please tell me the movie schedules?","intents":"Time"}
+{"text":"What films are playing at the nearest movie theatre ","intents":"Time"}
+{"text":"What animated movies are playing at the Douglas Theatre Company","intents":"Time"}
+{"text":"What animated movies are playing at Pacific Theatres","intents":"Time"}
+{"text":"can I get the movie schedules","intents":"Time"}
+{"text":"Find Secret Command.","intents":"Time"}
+{"text":"Give me the schedule for What a Wonderful Place at Cinemark Theatres","intents":"Time"}
+{"text":"what time is Achilles and the Tortoise showing","intents":"Time"}
+{"text":"what animated movies are showing in the neighborhood ","intents":"Time"}
+{"text":"I'd like to watch films at Marcus Corporation at twelve P.M.","intents":"Time"}
+{"text":"Show movies in the neighborhood","intents":"Time"}
+{"text":"What films are at Cineplex Odeon Corporation","intents":"Time"}
+{"text":"Can a I get the movie schedule for Sympathy for the Devil","intents":"Time"}
+{"text":"Find movie schedules for animated movies around here.","intents":"Time"}
+{"text":"what time is Bordertown Trail showing","intents":"Time"}
+{"text":"in the neighbourhood find movies with movie times","intents":"Time"}
+{"text":"What cinema has the closest movies","intents":"Time"}
