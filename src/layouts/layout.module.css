@@ -1,0 +1,22 @@
+.mainNav {
+}
+
+.mainNav ul {
+	display: flex;
+	list-style-type: none;
+	margin: 0;
+}
+
+.mainNav ul li {
+	margin: 0;
+}
+
+.mainNav ul li a {
+	color: #fff;
+	text-decoration: none;
+	margin: 0 10px;
+}
+
+html {
+	background: linear-gradient(to bottom, #fff 0, #f6f6f6 150px);
+}
