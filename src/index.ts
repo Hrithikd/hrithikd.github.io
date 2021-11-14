@@ -1,46 +1,78 @@
-var possibleEvents = new Set(["input", "onpropertychange", "keyup", "change", "paste"]);
-
-window.onload = () => {
-    var ticksInput = document.getElementById("ticks") as HTMLInputElement;
-    possibleEvents.forEach((eventName: string) => {
-        ticksInput.addEventListener(eventName, (ev: Event) => {
-            var inputElement = ev.target as HTMLInputElement;
-            var handler = new TickInputHandler();
-            handler.showResult(inputElement);
-        })
-    });
-};
-
 class TickInputHandler {
-    // Ticks value for date 01-01-1970
     static epochTicks: number = 621355968000000000;
     static ticksPerMillisecond: number = 10000;
-    // http://ecma-international.org/ecma-262/5.1/#sec-15.9.1.1
-    static maxDateMilliseconds: number = 8640000000000000;
+    static maxDateMilliseconds: number = 8640000000000000; // http://ecma-international.org/ecma-262/5.1/#sec-15.9.1.1
 
-    public showResult(inputElement: HTMLInputElement) {
-        // Get value from the input and try to convert it to type Number
-        var valueStr = inputElement.value;
-        var ticks = Number(valueStr);
+    constructor() {
+        var inputElement = document.getElementById("ticks") as HTMLInputElement;
+        TickInputHandler.showResult(inputElement);
+    }
 
-        var dateString = String();
-        // If we were not able to parse input as a Number - show empty DateTimeString
-        if (isNaN(ticks)) {
-            dateString = "____-__-__T__:__:__.____Z";
+    public doWork(event: KeyboardEvent) {
+        const target = event.target as HTMLElement;
+        if (!TickInputHandler.isTickInput(target)) {
+            return;
         }
 
-        // convert the ticks into something typescript understands
+        var inputElement = target as HTMLInputElement;
+        TickInputHandler.showResult(inputElement);
+    }
+
+    static showResult(inputElement: HTMLInputElement) {
+        var value = TickInputHandler.getTickInputValueAsNumber(inputElement);
+
+        var dateTimeOutput = document.getElementById("datetime");
+        if (!dateTimeOutput) {
+            return;
+        }
+
+        var dateString = TickInputHandler.parseTicks(value);
+        if (!dateString) {
+            return;
+        }
+
+        var goodParts = /([0-9]+)/g;
+        var wrapParts = "<b>$1</b>";
+        dateString = dateString.replace(goodParts, wrapParts);
+
+        var firstTIndext = dateString.indexOf("T");
+        var datePart = dateString.substr(0, firstTIndext);
+        var timePart = dateString.substr(firstTIndext + 1);
+
+        dateTimeOutput.innerHTML =
+            datePart
+            + "<span class='pad'>T</span>"
+            + timePart;
+    }
+
+    static parseTicks(ticks: number) {
+        if (isNaN(ticks)) {
+            return "____-__-__T__:__:__.____Z";
+        }
+
+        // convert the ticks into something javascript understands
         var ticksSinceEpoch = ticks - TickInputHandler.epochTicks;
         var millisecondsSinceEpoch = ticksSinceEpoch / TickInputHandler.ticksPerMillisecond;
-        // If the value of the input is more than max value - show special DateTime string for this case
         if (millisecondsSinceEpoch > TickInputHandler.maxDateMilliseconds) {
-            dateString = "9999-99-99T99:99:99:9999Z";
+            //      +035210-09-17T07:18:31.111Z
+            return "9999-99-99T99:99:99:9999Z";
         }
-
         // output the result in something the human understands
         var date = new Date(millisecondsSinceEpoch);
         return date.toISOString();
-        var dateTimeOutput = document.getElementById("datetime");
-        dateTimeOutput.innerHTML = dateString;
+    }
+
+    static isTickInput(target: HTMLElement) {
+        return target.tagName == 'INPUT' && target.id == 'ticks';
+    }
+
+    static getTickInputValueAsNumber(inputElement: HTMLInputElement) {
+        var valueStr = inputElement.value;
+        return Number(valueStr);
     }
 }
+
+window.onload = () => {
+    var handler = new TickInputHandler();
+    document.addEventListener("keyup", handler.doWork);
+};
