@@ -6,33 +6,12 @@
   const isTouch = window.matchMedia('(hover: none)').matches;
 
   /* ---------- year ---------- */
-  document.getElementById('year').textContent = new Date().getFullYear();
+  const yr = document.getElementById('year');
+  if (yr) yr.textContent = new Date().getFullYear();
 
-  /* ---------- preloader ---------- */
-  const pre = document.getElementById('preloader');
-  const fill = document.getElementById('preloaderFill');
-  const countEl = document.getElementById('preloaderCount');
-  let p = 0;
-  const tick = setInterval(() => {
-    p += Math.random() * 14 + 4;
-    if (p >= 100) { p = 100; clearInterval(tick); finish(); }
-    fill.style.width = p + '%';
-    countEl.textContent = Math.floor(p);
-  }, 130);
-  function finish() {
-    setTimeout(() => {
-      pre.classList.add('done');
-      document.body.classList.add('loaded');
-      playHero();
-    }, 350);
-  }
-  function playHero() {
-    if (reduce || typeof gsap === 'undefined') {
-      document.querySelectorAll('.hero .reveal').forEach(e => e.classList.add('in'));
-      return;
-    }
-    gsap.to('.hero .reveal', { opacity: 1, y: 0, duration: 1, ease: 'power3.out', stagger: .12 });
-  }
+  /* Only hide content for the scroll-in animation once we KNOW JS is running.
+     If this script never executes, nothing is hidden and the page just shows. */
+  document.body.classList.add('animate');
 
   /* ---------- smooth scroll (Lenis) ---------- */
   let lenis = null;
@@ -171,7 +150,7 @@
       '  <b>sudo</b>        nice try\n' +
       '  <b>clear</b>       wipe the screen\n' +
       '  <b>exit</b>        close terminal'),
-    whoami: () => print('<b>Hrithik Datta</b> — EECS @ UC Berkeley.\nI've worked on LLM evaluation, large-scale data pipelines, and privacy-preserving systems.'),
+    whoami: () => print('<b>Hrithik Datta</b> — EECS @ UC Berkeley.\nI\'ve worked on LLM evaluation, large-scale data pipelines, and privacy-preserving systems.'),
     experience: () => print(
       '<b>Okareo</b>            SWE        2023–2026   LLM-eval platform, Spark + Vertex AI, −80% runtime\n' +
       '<b>Hinkal Protocol</b>   SWE        2023        ZK-proof privacy compute across DeFi protocols\n' +
