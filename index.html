@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Hrithik Datta — Software Engineer building LLM evaluation platforms, data pipelines, and privacy-preserving systems." />
+  <meta name="theme-color" content="#060710" />
+  <title>Hrithik Datta</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="assets/css/style.css" />
+</head>
+<body>
+  <!-- ░░░ PRELOADER ░░░ -->
+  <div class="preloader" id="preloader">
+    <div class="preloader__inner">
+      <div class="preloader__name">HRITHIK DATTA</div>
+      <div class="preloader__bar"><span id="preloaderFill"></span></div>
+      <div class="preloader__count"><span id="preloaderCount">0</span><i>%</i></div>
+    </div>
+  </div>
+
+  <!-- ░░░ CUSTOM CURSOR ░░░ -->
+  <div class="cursor" id="cursorDot"></div>
+  <div class="cursor-ring" id="cursorRing"></div>
+
+  <!-- ░░░ NOISE + GRAIN OVERLAY ░░░ -->
+  <div class="grain" aria-hidden="true"></div>
+  <div class="scanline" aria-hidden="true"></div>
+
+  <!-- ░░░ NAV ░░░ -->
+  <header class="nav" id="nav">
+    <a href="#hero" class="nav__logo" data-magnetic>HD<span>.</span></a>
+    <nav class="nav__links">
+      <a href="#about" data-magnetic>About</a>
+      <a href="#work" data-magnetic>Work</a>
+      <a href="#skills" data-magnetic>Skills</a>
+      <a href="#education" data-magnetic>Education</a>
+      <a href="#contact" class="nav__cta" data-magnetic>Contact</a>
+    </nav>
+    <button class="nav__term" id="openTerminal" data-magnetic title="Open terminal (press ` or /)">
+      <span>_</span> terminal
+    </button>
+  </header>
+
+  <!-- ░░░ HERO ░░░ -->
+  <section class="hero" id="hero">
+    <canvas id="particles"></canvas>
+    <div class="hero__overlay">
+      <div class="hero__eyebrow reveal"><span></span> San Francisco Bay Area</div>
+      <h1 class="hero__title reveal" aria-label="Hrithik Datta">
+        Hrithik
+        <span class="grad">Datta</span>
+      </h1>
+      <p class="hero__sub reveal">
+        EECS @ Berkeley. I work on LLM evaluation, large-scale data pipelines,
+        and privacy-preserving systems.
+      </p>
+      <div class="hero__actions reveal">
+        <a href="#work" class="btn btn--primary" data-magnetic>View my work <i>↘</i></a>
+        <a href="#contact" class="btn btn--ghost" data-magnetic>Get in touch</a>
+      </div>
+      <div class="hero__hint reveal"><span class="hero__hintdot"></span>drag / move your cursor over the particles</div>
+    </div>
+    <div class="hero__scroll"><span></span>scroll</div>
+  </section>
+
+  <!-- ░░░ MARQUEE ░░░ -->
+  <div class="marquee" id="marquee" aria-hidden="true">
+    <div class="marquee__track">
+      <span>PYTHON</span><span>•</span><span>PYTORCH</span><span>•</span><span>APACHE SPARK</span><span>•</span><span>VERTEX AI</span><span>•</span><span>GCP DATAPROC</span><span>•</span><span>DJANGO</span><span>•</span><span>AWS LAMBDA</span><span>•</span><span>SOLIDITY</span><span>•</span><span>ZK-PROOFS</span><span>•</span><span>POSTGRESQL</span><span>•</span><span>REACT</span><span>•</span><span>C++</span><span>•</span><span>VERILOG</span><span>•</span><span>DISTRIBUTED SYSTEMS</span><span>•</span>
+    </div>
+  </div>
+
+  <!-- ░░░ ABOUT ░░░ -->
+  <section class="section about" id="about">
+    <div class="section__head">
+      <span class="section__index">01</span>
+      <h2 class="section__title reveal">About</h2>
+    </div>
+    <div class="about__grid">
+      <p class="about__lead reveal">
+        I'm Hrithik — an engineer who likes the hard middle layer: the pipelines, the
+        evaluation harnesses, the distributed jobs that turn millions of messy events into
+        something a product can stand on.
+      </p>
+      <p class="about__body reveal">
+        Most recently I built an internal LLM-evaluation platform at Okareo — metrics,
+        tracing, automated benchmarking and regression tracking — backed by data pipelines
+        ingesting <strong>millions of interactions a day</strong> on GCP Dataproc and Vertex AI.
+        Before that I shipped privacy-preserving compute with ZK-proof orchestration, a
+        real-time quote-pricing engine, and ML personalization APIs.
+        I cut pipeline runtime by <strong>over 80%</strong> and I care a lot about the details.
+      </p>
+      <div class="about__stats">
+        <div class="stat reveal"><b data-count="80">0</b><i>%</i><span>runtime cut on eval pipelines</span></div>
+        <div class="stat reveal"><b data-count="5">0</b><span>engineering teams shipped with</span></div>
+        <div class="stat reveal"><b data-count="3.94" data-decimals="2">0</b><span>GPA · EECS @ Berkeley</span></div>
+        <div class="stat reveal"><b data-count="1">0</b><i>M+</i><span>events/day through my pipelines</span></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ░░░ WORK / TIMELINE ░░░ -->
+  <section class="section work" id="work">
+    <div class="section__head">
+      <span class="section__index">02</span>
+      <h2 class="section__title reveal">Selected Experience</h2>
+    </div>
+    <div class="timeline" id="timeline">
+
+      <article class="job reveal" data-tilt>
+        <div class="job__rail"><span class="job__dot"></span></div>
+        <div class="job__card">
+          <div class="job__top">
+            <h3>Okareo, Inc.</h3>
+            <span class="job__role">Software Engineer</span>
+            <span class="job__when">Nov 2023 — Feb 2026 · San Mateo, CA</span>
+          </div>
+          <ul class="job__points">
+            <li>Built an internal <strong>LLM-evaluation platform</strong> with metrics &amp; tracing for automated benchmarking and regression tracking.</li>
+            <li>Designed data pipelines ingesting <strong>millions of interactions/day</strong> on GCP Dataproc (Apache Spark) and Vertex AI Pipelines.</li>
+            <li>Cut pipeline and evaluation runtime <strong>over 80%</strong> via distributed-execution tuning, memory management, and parallelization.</li>
+            <li>Trained and deployed PyTorch evaluation models into CI/CD for continuous testing and adaptive benchmarking.</li>
+            <li>Built experiment-tracking &amp; model-versioning workflows on Vertex AI for reproducible runs and auto-promotion.</li>
+          </ul>
+          <div class="job__tags"><span>LLM Eval</span><span>Spark</span><span>Vertex AI</span><span>PyTorch</span><span>GCP</span></div>
+        </div>
+      </article>
+
+      <article class="job reveal" data-tilt>
+        <div class="job__rail"><span class="job__dot"></span></div>
+        <div class="job__card">
+          <div class="job__top">
+            <h3>Hinkal Protocol, Inc.</h3>
+            <span class="job__role">Software Engineer</span>
+            <span class="job__when">May 2023 — Oct 2023 · Menlo Park, CA</span>
+          </div>
+          <ul class="job__points">
+            <li>Built <strong>privacy-preserving compute</strong> across multiple DeFi protocols with ZK-proof orchestration and real-time event processing.</li>
+            <li>Engineered streaming pipelines processing on-chain data into structured dashboards via ZK-proof privacy layers.</li>
+            <li>Reverse-engineered Solidity contracts to align frontend/backend integrations with added privacy and state logic.</li>
+          </ul>
+          <div class="job__tags"><span>ZK-Proofs</span><span>Solidity</span><span>Streaming</span><span>DeFi</span></div>
+        </div>
+      </article>
+
+      <article class="job reveal" data-tilt>
+        <div class="job__rail"><span class="job__dot"></span></div>
+        <div class="job__card">
+          <div class="job__top">
+            <h3>Shipyard Software, Inc.</h3>
+            <span class="job__role">Software Engineer</span>
+            <span class="job__when">May 2021 — Apr 2023 · San Francisco, CA</span>
+          </div>
+          <ul class="job__points">
+            <li>Built a <strong>quote-pricing engine</strong> with real-time market analysis, multi-layer bot detection, and dynamic pricing algorithms.</li>
+            <li>Built platform backends: Django 3.2→4.1 upgrade, AWS Lambda attribution, SQS webhook processing, signature validation.</li>
+          </ul>
+          <div class="job__tags"><span>Django</span><span>AWS Lambda</span><span>SQS</span><span>Real-time</span></div>
+        </div>
+      </article>
+
+      <article class="job reveal" data-tilt>
+        <div class="job__rail"><span class="job__dot"></span></div>
+        <div class="job__card">
+          <div class="job__top">
+            <h3>Wayfair, Inc.</h3>
+            <span class="job__role">Data Engineering Intern</span>
+            <span class="job__when">Jan 2021 — May 2021 · San Francisco, CA</span>
+          </div>
+          <ul class="job__points">
+            <li>Built SQL &amp; Python tooling for the competitive-intelligence team to track competitor prices and tune pricing (PostgreSQL).</li>
+          </ul>
+          <div class="job__tags"><span>SQL</span><span>Python</span><span>PostgreSQL</span></div>
+        </div>
+      </article>
+
+      <article class="job reveal" data-tilt>
+        <div class="job__rail"><span class="job__dot"></span></div>
+        <div class="job__card">
+          <div class="job__top">
+            <h3>Adobe, Inc.</h3>
+            <span class="job__role">Machine Learning Intern</span>
+            <span class="job__when">Jun 2020 — Aug 2020 · San Francisco, CA</span>
+          </div>
+          <ul class="job__points">
+            <li>Built a personalization API surfacing phrases relevant to the user's live search query (Python, REST, PyTorch).</li>
+            <li>Created a data-driven, modular landing page letting business analysts edit copy directly (HTML, CSS, React).</li>
+          </ul>
+          <div class="job__tags"><span>PyTorch</span><span>REST</span><span>React</span><span>Personalization</span></div>
+        </div>
+      </article>
+
+    </div>
+  </section>
+
+  <!-- ░░░ SKILLS ░░░ -->
+  <section class="section skills" id="skills">
+    <div class="section__head">
+      <span class="section__index">03</span>
+      <h2 class="section__title reveal">Toolbox</h2>
+    </div>
+    <div class="skills__grid">
+      <div class="skillcard reveal" data-tilt>
+        <h4>Languages</h4>
+        <ul><li>Python</li><li>C / C++</li><li>Solidity</li><li>x86 / Assembly</li><li>Verilog</li><li>SQL</li></ul>
+      </div>
+      <div class="skillcard reveal" data-tilt>
+        <h4>ML &amp; Data</h4>
+        <ul><li>PyTorch</li><li>Apache Spark</li><li>Vertex AI</li><li>GCP Dataproc</li><li>LLM Evaluation</li><li>Model Versioning</li></ul>
+      </div>
+      <div class="skillcard reveal" data-tilt>
+        <h4>Backend &amp; Cloud</h4>
+        <ul><li>Django</li><li>AWS Lambda</li><li>SQS</li><li>PostgreSQL</li><li>CI/CD</li><li>Distributed Systems</li></ul>
+      </div>
+      <div class="skillcard reveal" data-tilt>
+        <h4>Web3 &amp; Frontend</h4>
+        <ul><li>ZK-Proofs</li><li>Smart Contracts</li><li>Real-time Streaming</li><li>React</li><li>HTML / CSS</li><li>REST APIs</li></ul>
+      </div>
+      <div class="skillcard reveal" data-tilt>
+        <h4>Hardware</h4>
+        <ul><li>FPGA Design</li><li>ASIC Design</li><li>Computer Architecture</li><li>Verilog</li></ul>
+      </div>
+      <div class="skillcard reveal" data-tilt>
+        <h4>Foundations</h4>
+        <ul><li>Advanced Algorithms</li><li>Operating Systems</li><li>Databases</li><li>AI</li><li>Probability &amp; Random Processes</li><li>Cybersecurity</li></ul>
+      </div>
+    </div>
+  </section>
+
+  <!-- ░░░ EDUCATION ░░░ -->
+  <section class="section education" id="education">
+    <div class="section__head">
+      <span class="section__index">04</span>
+      <h2 class="section__title reveal">Education</h2>
+    </div>
+    <div class="edu reveal" data-tilt>
+      <div class="edu__main">
+        <h3>University of California, Berkeley</h3>
+        <p class="edu__deg">B.S. — Electrical Engineering &amp; Computer Science</p>
+        <p class="edu__meta">Jun 2018 — Dec 2021 · <span class="edu__gpa">GPA 3.94</span></p>
+      </div>
+      <div class="edu__detail">
+        <h5>Highlighted Coursework</h5>
+        <p>Data Structures · Advanced Algorithms · Operating Systems · Databases · Computer Architecture · Cybersecurity · Artificial Intelligence · Advanced Probability &amp; Random Processes · Discrete Math</p>
+        <h5>Languages &amp; Frameworks</h5>
+        <p>Python · C · C++ · FPGA Design · ASIC Design · Verilog · x86 · Assembly</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ░░░ CONTACT ░░░ -->
+  <section class="section contact" id="contact">
+    <div class="contact__inner">
+      <p class="contact__eyebrow reveal">Have something to build?</p>
+      <h2 class="contact__big reveal">
+        <a href="mailto:dattax5@gmail.com" data-magnetic>Let's talk <i>↗</i></a>
+      </h2>
+      <div class="contact__links reveal">
+        <a href="mailto:dattax5@gmail.com" data-magnetic>dattax5@gmail.com</a>
+        <a href="tel:+15105125993" data-magnetic>+1 (510) 512-5993</a>
+        <a href="https://github.com/Hrithikd" target="_blank" rel="noopener" data-magnetic>GitHub ↗</a>
+      </div>
+    </div>
+    <footer class="footer">
+      <span>© <span id="year"></span> Hrithik Datta</span>
+      <span>Built with particles, GSAP &amp; too much care.</span>
+      <button id="openTerminal2" class="footer__term" data-magnetic>press <kbd>`</kbd> for terminal</button>
+    </footer>
+  </section>
+
+  <!-- ░░░ TERMINAL ░░░ -->
+  <div class="terminal" id="terminal" aria-hidden="true">
+    <div class="terminal__win">
+      <div class="terminal__bar">
+        <span class="terminal__btns"><i></i><i></i><i></i></span>
+        <span class="terminal__title">hrithik@portfolio — zsh</span>
+        <button class="terminal__close" id="closeTerminal">✕</button>
+      </div>
+      <div class="terminal__body" id="terminalBody">
+        <div class="terminal__line">Last login. Type <b>help</b> to get started.</div>
+      </div>
+      <div class="terminal__prompt">
+        <span class="terminal__ps1">hrithik@portfolio <b>~</b> %</span>
+        <input id="terminalInput" autocomplete="off" spellcheck="false" />
+      </div>
+    </div>
+  </div>
+
+  <!-- ░░░ KONAMI TOAST ░░░ -->
+  <div class="konami" id="konami">🎮 cheat mode unlocked — gravity engaged</div>
+
+  <!-- vendor -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js"></script>
+  <script src="https://unpkg.com/@studio-freight/lenis@1.0.42/dist/lenis.min.js"></script>
+  <!-- app -->
+  <script src="assets/js/particles.js"></script>
+  <script src="assets/js/main.js"></script>
+</body>
+</html>
