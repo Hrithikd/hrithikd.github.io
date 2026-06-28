@@ -171,7 +171,7 @@
       '  <b>sudo</b>        nice try\n' +
       '  <b>clear</b>       wipe the screen\n' +
       '  <b>exit</b>        close terminal'),
-    whoami: () => print('<b>Hrithik Datta</b> — Software Engineer. EECS @ UC Berkeley (GPA 3.94).\nI build LLM-eval platforms, billion-row data pipelines, and privacy-preserving systems.'),
+    whoami: () => print('<b>Hrithik Datta</b> — EECS @ UC Berkeley.\nI work on LLM evaluation, large-scale data pipelines, and privacy-preserving systems.'),
     experience: () => print(
       '<b>Okareo</b>            SWE        2023–2026   LLM-eval platform, Spark + Vertex AI, −80% runtime\n' +
       '<b>Hinkal Protocol</b>   SWE        2023        ZK-proof privacy compute across DeFi protocols\n' +
@@ -179,7 +179,7 @@
       '<b>Wayfair</b>           Data Eng   2021        Competitive-intel pricing tooling (PostgreSQL)\n' +
       '<b>Adobe</b>             ML Intern  2020        Personalization API + data-driven UI (PyTorch)'),
     skills: () => print('Python · C/C++ · PyTorch · Apache Spark · Vertex AI · GCP · Django · AWS Lambda · SQS · PostgreSQL · Solidity · ZK-Proofs · React · Verilog · FPGA/ASIC · Distributed Systems'),
-    education: () => print('<b>UC Berkeley</b> — B.S. Electrical Engineering & Computer Science\n2018–2021 · <span class="pp">GPA 3.94</span> · Algorithms, OS, Databases, Architecture, AI, Crypto'),
+    education: () => print('<b>UC Berkeley</b> — B.S. Electrical Engineering & Computer Science\n2018–2021 · Algorithms, OS, Databases, Architecture, AI, Cryptography'),
     contact: () => print('email   <b>dattax5@gmail.com</b>\nphone   <b>+1 (510) 512-5993</b>\ngithub  <b>github.com/Hrithikd</b>'),
     resume: () => print('Engineer who lives in the hard middle layer — pipelines, eval harnesses,\ndistributed jobs. Turned millions of messy events/day into product-grade signal.\nType <b>experience</b> for the full list.'),
     github: () => { print('opening <b>github.com/Hrithikd</b> …', 'ok'); window.open('https://github.com/Hrithikd', '_blank'); },

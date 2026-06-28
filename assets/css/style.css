@@ -139,6 +139,15 @@ body::before{
 .btn--ghost{border:1px solid var(--panel-brd);color:var(--ink)}
 .btn--ghost:hover{border-color:var(--cyan);background:rgba(0,234,255,.08)}
 
+/* plain understated hero links */
+.hero__link{position:relative;display:inline-flex;align-items:center;gap:.4rem;font-size:1rem;color:var(--ink-dim);
+  font-family:'JetBrains Mono';cursor:none;transition:color .25s}
+.hero__link i{font-style:normal;color:var(--cyan);transition:transform .3s var(--ease)}
+.hero__link:hover{color:var(--ink)}
+.hero__link:hover i{transform:translateY(3px)}
+.hero__link::after{content:"";position:absolute;left:0;bottom:-5px;height:1px;width:0;background:var(--grad);transition:width .3s var(--ease)}
+.hero__link:hover::after{width:100%}
+
 /* ============ MARQUEE ============ */
 .marquee{border-top:1px solid var(--panel-brd);border-bottom:1px solid var(--panel-brd);
   padding:1.1rem 0;overflow:hidden;background:rgba(255,255,255,.015);white-space:nowrap;position:relative;z-index:3}
@@ -231,17 +240,9 @@ body::before{
 @media (max-width:760px){.edu{grid-template-columns:1fr}}
 
 /* ============ CONTACT ============ */
-.contact{text-align:center;padding-bottom:0}
-.contact__eyebrow{font-family:'JetBrains Mono';font-size:.85rem;letter-spacing:.14em;text-transform:uppercase;
-  color:var(--ink-dim);margin-bottom:1rem}
-.contact__big{font-family:'Space Grotesk';font-weight:700;letter-spacing:-.03em;
-  font-size:clamp(2.6rem,11vw,8rem);line-height:1}
-.contact__big a{position:relative;background:var(--grad);-webkit-background-clip:text;background-clip:text;
-  -webkit-text-fill-color:transparent;display:inline-flex;align-items:flex-start;gap:.2rem}
-.contact__big a i{-webkit-text-fill-color:var(--cyan);font-style:normal;font-size:.4em;transition:transform .3s var(--ease)}
-.contact__big a:hover i{transform:translate(8px,-8px)}
-.contact__links{display:flex;justify-content:center;flex-wrap:wrap;gap:1.4rem 2.4rem;margin-top:2.6rem}
-.contact__links a{font-family:'JetBrains Mono';font-size:.95rem;color:var(--ink-dim);position:relative}
+.contact{padding-bottom:0}
+.contact__links{display:flex;flex-wrap:wrap;gap:1.2rem 2.6rem}
+.contact__links a{font-family:'JetBrains Mono';font-size:1.1rem;color:var(--ink-dim);position:relative}
 .contact__links a:hover{color:var(--ink)}
 .contact__links a::after{content:"";position:absolute;left:0;bottom:-5px;height:1px;width:0;background:var(--grad);transition:width .3s var(--ease)}
 .contact__links a:hover::after{width:100%}
