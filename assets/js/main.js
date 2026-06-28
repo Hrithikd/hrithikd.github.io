@@ -171,7 +171,7 @@
       '  <b>sudo</b>        nice try\n' +
       '  <b>clear</b>       wipe the screen\n' +
       '  <b>exit</b>        close terminal'),
-    whoami: () => print('<b>Hrithik Datta</b> — EECS @ UC Berkeley.\nI work on LLM evaluation, large-scale data pipelines, and privacy-preserving systems.'),
+    whoami: () => print('<b>Hrithik Datta</b> — EECS @ UC Berkeley.\nI've worked on LLM evaluation, large-scale data pipelines, and privacy-preserving systems.'),
     experience: () => print(
       '<b>Okareo</b>            SWE        2023–2026   LLM-eval platform, Spark + Vertex AI, −80% runtime\n' +
       '<b>Hinkal Protocol</b>   SWE        2023        ZK-proof privacy compute across DeFi protocols\n' +
